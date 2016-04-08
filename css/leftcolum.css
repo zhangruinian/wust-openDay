@@ -1,0 +1,368 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/* 报考指南 */
+
+.lftcolum_y{
+	height:auto;
+	}
+.flobord_y a{
+	color:#333333;
+	}
+.conbook_y{
+	margin-left:5px;
+	}
+.leftcon_y{
+	float:left;
+	margin-left:15px;
+	width:116px;
+	height:150px;
+	overflow:hidden;	
+	}
+.leftcon_y img{
+	width:107px;
+	height:auto;
+}
+.rgtcon_y{
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+	}
+.topthree_y{
+	width:395px;
+	height:62px;
+	overflow:hidden;
+	
+	/*border-bottom:2px solid #D8D8D9;*/
+	}
+.rgtcon_y a{
+	display:block;
+	color:#fff;
+	border:2px solid #fff;
+/* 	font-weight:bold; */
+}	
+.rgtcon_y a:hover{
+	text-decoration:none;
+	color:#467996;
+	background:#fff;
+	border:1px solid #467996;
+}
+.briefintro_y{
+	float:left;
+	width:128px;
+	text-align:center;
+	font-size:18px;
+	height:60px;
+	line-height:60px;
+	background:#75A5B7;
+	
+	}
+.briefplan_y{
+	float:left;
+	width:128px;
+	text-align:center;
+	color:#4B29AB;
+	font-size:18px;
+	height:60px;
+	line-height:60px;
+	background:#75A5B7;
+	
+	}
+.briefgrade_y{
+	float:left;
+	width:256px;
+	text-align:center;
+	font-size:18px;
+	height:60px;
+	line-height:60px;
+	background:#75A5B7;
+
+	}
+.bottomtwo_y{
+	width:395px;
+	height:60px;
+	}
+/* 媒体关注 */
+.presscare_y{
+	margin-top:15px;
+	}
+.presscont_y{
+	margin-top:5px;
+	margin-left:20px;
+	}
+
+.presscfir_y{
+	display:block;
+	width:520px;
+	height:33px;
+	}
+.presscfir_y:hover{
+	box-shadow:0px 2px 2px #999;
+}
+.pressimg_y{
+	float:left;
+	width:32px;
+	text-align:center;
+	height:33px;
+	line-height:33px;
+	}
+.pressimg_y img{
+	display:block;	
+	margin-top:6px;
+	width:16px;
+	height:20px;
+	}
+.firpre_y{
+	float:left;
+	color:#333333;
+	font-size:16px;
+	line-height:33px;
+	}
+
+/*致未来学生*/
+.futureu_y{
+	margin-top:25px;
+	}
+
+.borfustu_y{
+	float:left;
+	width:115px;
+	height:30px;
+	color:#287099;
+	font-size:22px;
+	border-bottom:5px solid #1c4258;
+	}
+.borfustu_y a{
+	color:#287099;
+}
+.borfustu_y a:hover{
+	text-decoration:none;
+	color:#191A6D;
+	
+}	
+.flostuden_y{
+	float:left;
+	text-align:right;
+	margin-left:2px;
+	width:420px;
+	height:31px;
+	line-height:37px;
+	font-size:18px;
+	border-bottom:4px solid #467996;
+	}
+.flostuden_y a{
+	color:#333333;
+	}
+	
+.magazine_y{
+	margin-top:20px;
+	margin-left:2px;
+	}
+.mageimg_y{
+	float:left;
+	width:141px;
+	height:180px;
+	margin-left:40px;
+	}
+.mageimg_y img{
+	width:141px;
+	height:180px;
+	}
+.magechar_y{
+	float:left;
+	padding-left:20px;
+	}
+.magechar_y a{
+	display:block;
+	cursor:pointer;
+	color:#333333;
+}
+.magechar_y a:hover{
+	text-decoration:none;
+	color:green;
+	
+}
+.maganame_y{
+	margin-top:2px;
+	margin-left:35px;
+	width:120px;
+	font-size:22px;
+	color:#043392;
+	}
+.maganame_y a{
+	color:#043392;
+}
+.magaautho_y{
+	margin-top:10px;
+	color:#333333;
+	font-size:14px;
+	test-align:justify;
+	line-height:20px;
+	text-indent:2em;
+	margin-left:20px;
+	width:300px;
+	}
+/*名师名家*/
+.teacher_y{
+	margin-top:35px;
+	}
+.schote_y{
+	margin-top:5px;
+	}
+.celebrity_y{
+	width:535px;
+	}
+.columtitl_y{
+	width:535px;
+	margin-top:10px;
+	text-align:left;
+	}
+.starfir_y{
+	float:left;
+	width:40px;
+	height:30px;
+	padding-top:4px;
+	
+	text-align:center;
+	vertical-align:middle;
+	}
+.starfir_y img{
+	width:18px;
+	height:18px;
+	}
+.knowned_y{
+	float:left;
+	margin-left:5px;
+	color:#043392;
+	font-size:18px;
+	}
+.knowned_y a{
+	color:#043392;
+	}
+.linksite_y{
+	float:right;
+	height:24px;
+	text-align:left;
+	margin-right:10px;
+	margin-top:2px;
+	}
+.talking_y{
+	width:inherit;
+	height:auto;
+	overflow:hidden;
+}
+.linksite_y a{
+	font-size:14px;
+	color:#333333;
+	}
+.slidetea_y{
+	position:relative;
+	width:530px;
+	height:140px;
+	padding-left:5px;
+	overflow:hidden;
+	}
+.slidetea_yx{
+	position:relative;
+	width:555px;
+	height:136px;
+	}
+.allphoto_y{
+
+	width:550px;
+	height:140px;
+}
+.allphoto_yq{
+	width:1650px;
+	height:140px;
+	}
+.allphoto_yq li{
+	display:inline-block;}
+.allphoto_yp{
+	position:relative;
+	width:550px;
+	height:140px;
+	}
+.personal_y{
+/*	float:left;*/
+	width:275px;
+	height:140px;
+	}
+.personal_yx{
+	float:left;
+	width:270px;
+	height:auto;
+	margin-top:10px;
+}
+.personal_yx:hover{
+	text-decoration:none;
+}
+.personimg_y{
+	float:left;
+	width:120px;
+	height:140px;
+	margin-bottom:4px;
+	}
+.personimg_y img{
+	width:120px;
+	height:136px;
+	}
+.personimg_yx{
+	width:270px;
+	height:auto;	
+}
+.personimg_yx img{
+	display:block;
+	width:270px;
+	text-align:center;
+	height:150px;
+	}
+.nameper_y{
+	float:left;
+	width:130px;
+	height:128px;
+	margin-left:15px;
+	margin-top:5px;
+	}
+.nameper_yy{
+	float:left;
+	width:100px;
+	height:auto;
+	margin-top:18px;
+	margin-left:15px;	
+	
+	}
+.perteachn_y{
+	display:block;
+	color:#004080;
+	font-size:18px;
+	}
+.perteachn_yx{
+	margin-top:10px;
+	color:#287099;
+	font-size:18px;
+	width:265px;
+	height:25px;
+/* 	margin-left:40px; */
+	line-height:25px;
+	text-align:center;
+	
+}
+
+	
+
+.detateachn_y{
+	margin-top:10px;
+	display:block;
+	color:#333333;
+	font-size:12px;
+	}
+.detateachn_yx{
+	width:265px;
+	height:25px;
+	text-align:center;
+/* 	margin-left:40px; */
+	line-height:20px;
+	color:#333333;
+	font-size:12px;
+	text-decoration:none;
+}

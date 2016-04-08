@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+}
+.s_header{
+	margin:auto;
+	width:1024px;
+	height:100px;
+}
+.s_headleft{
+	float:left;
+	width:300px;
+	height:inherit;
+}
+.s_headleft img{
+	margin-left:20px;
+	margin-top:10px;
+	width:320px;
+	height:80px;
+}
+.s_headright{
+	float:right;
+	width:700px;
+	height:100px;
+}
+.s_headright .kaifang{
+	width:568px;
+	font-family:"微软雅黑";
+	font-weight:bold;
+	font-size:40px;
+	color:#467996;
+	height:70px;
+	text-align:center;
+	line-height:70px;
+}
+.s_headright .kaifangtime{
+	width:510px;
+	margin-left:85px;
+	margin-top:-10px;
+	font-family:"微软雅黑";
+	font-weight:bold;
+	font-size:20px;
+	color:#467996;
+	height:30px;
+	text-align:center;
+	line-height:30px;
+}
+.s_headimg{
+	margin:auto;
+	width:1024px;
+	height:215px;
+}
+.s_headimg img{
+	width:1024px;
+	heigtht:215px;
+}
+.left{
+	float:left;
+	width:545px;
+	height:auto;
+	margin-left:10px;
+}
+.s_right{
+	float:right;
+	margin-right:0px;
+	width:445px;
+	height:auto;
+}
+.s_xiaoxun{
+	position:absolute;
+	right:20px;
+	top:17px;
+	width:146px;
+	height:66px;
+}
+

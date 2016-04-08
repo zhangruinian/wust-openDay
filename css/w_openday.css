@@ -1,0 +1,254 @@
+@charset "utf-8";
+/* CSS Document */
+.w_container{
+/* 	position:relative; */
+	height:auto;
+	width:555px;
+	margin-top:30px;
+}
+.w_container .w_con_top{
+	width:555px;
+	height:40px;
+	font-size:22px;
+}
+.w_top_left{
+	width:90px;
+	height:36px;
+	float:left;
+	color:#031375;
+	font-weight:normal;
+	line-height:36px;
+	border-bottom:solid 4px #031375;
+}
+.w_top_right{
+	width:440px;
+	height:98px;
+	float:left;
+	margin-left:5px;
+	border-bottom:solid 3px #00A0E9;
+}
+.w_container .w_culture{
+	width:555px;
+	height:300px;
+}
+.w_content{
+	width:555px;
+	height:210px;
+	margin-top:24px;
+}
+
+.w_left{
+	position:relative;
+	width:228px;
+	height:202px;
+	float:left;
+}
+
+.w_introdsy{
+	position:absolute;
+	bottom:-5px;
+	width:228px;
+	height:25px;
+	opacity:0.2;
+	background:#fff;
+}
+.w_introdh{
+	width:inherit;
+	height:25px;
+	position:absolute;
+	bottom:-5px;
+	color:#ffffff;	
+	font-size:16px;
+	line-height:25px;
+	text-align:center;
+}
+.w_left .w_qhimg{
+	height:205px;
+	width:228px;
+}
+.w_left .w_qhimg img{
+	height:206px;
+	width:228px;
+}
+
+.w_right{
+	position:relative;
+	width:148px;
+	height:99px;
+	float:left;
+	margin-left:8px;
+}
+.w_right a{
+	width:148px;
+	margin:auto;
+}
+.w_right a：hover{
+	color:#fff;
+}
+.w_right img{
+	display:block;
+	width:148px;
+	height:99px;
+}
+.w_introds{
+	position:absolute;
+	bottom:0px;
+	width:148px;
+	height:25px;
+	opacity:0.2;
+	background:#000000;
+}
+.w_intro{
+	margin:auto;
+	width:inherit;
+	height:25px;
+	position:absolute;
+	bottom:0px;
+	color:#ffffff;	
+	font-size:16px;
+	line-height:25px;
+	text-align:center;
+}
+.w_container .w_scenery{
+	width:545px;
+	height:390px;
+}
+.w_campus{
+	position:relative;
+	width:545px;
+	height:126px;
+	overflow:hidden;
+	margin:20px auto 0px auto;
+}
+
+.w_slidder{
+	position:absolute;
+	left:0;
+	top:0;
+	width:5580px;
+	height:126px;
+}
+.w_campus img{
+	display:block;
+	width:545px;
+	height:126px;
+	border:none;
+	float:left;
+}
+.w_campus_bt{
+	width:545px;
+	height:145px;
+	margin:10px auto 0px auto;
+}
+
+.w_beattyschool{
+	width:270px;
+	float:left;
+}
+.w_beattyschool:hover{
+	text-decoration:none;
+}
+
+.w_beattyschool p{
+	width:270px;
+	text-align:center;
+	height:30px;
+	line-height:30px;
+	font-size:16px;
+	color:#467996;
+}
+.w_campus_bt img{
+	width:270px;
+	height:145px;
+	display:block;
+	display:inline;
+	margin-right:50px;
+}
+.w_schoolfellow{
+	width:545px;
+	height:420px;
+	
+}
+.w_schcon{
+	position:relative;
+	width:545px;
+	height:320px;
+	overflow:hidden;
+	margin-top:30px;
+}
+.s_jiechu{
+	display:block;
+	width:545px;
+	height:150px;
+	margin:10px auto 10px auto;
+	border-bottom:solid 1px #ABB8CA;
+}
+
+.w_lilt{
+	width:140px;
+	height:140px;
+	float:left;
+
+}
+.w_lilt img{
+	width:140px;
+	height:140px;
+}
+.w_lirt{
+	width:370px;
+	height:140px;
+	float:left;
+	margin-left:35px;
+}
+.w_lirt h1{
+	line-height:36px;
+	font-size:22px;
+	color:#004080;;
+	text-align:left;
+	font-weight:normal;
+}
+.w_lirt span{
+	color:#666;
+	line-height:36px;
+	font-size:14px;
+	text-align:left;
+}
+.w_qhimgxs{
+	position:absolute;
+	display:none;
+	width:228px;
+	height:207px;
+	background:#467996;
+	z-index:5;}
+.w_qhimgxs p{
+	text-align:center;
+	line-height:207px;
+	font-weight:bold;
+	color:#fff;
+	font-size:24px;}
+.w_qhimgxs1{
+	position:absolute;
+	display:none;
+	width:148px;
+	height:99px;
+	background:#467996;
+	z-index:6;
+	}
+.w_qhimgxs1 p{
+	text-align:center;
+	height:99px;
+	line-height:99px;
+	font-weight:bold;
+	color:#fff;
+	font-size:18px;
+	}
+.w_qhimgxs1 span{
+	display:block;
+	height:99px;
+	line-height:35px;
+	margin-top:10px;
+	text-align:center;
+	font-weight:bold;
+	color:#fff;
+	font-size:18px;
+	}
