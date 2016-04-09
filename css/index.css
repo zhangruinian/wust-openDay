@@ -84,3 +84,28 @@ ul#treeDemo{
 ul#treeDemo li{
 	padding-top:5px;
 }
+
+/* gradeasec.jsp历年分数线 */
+ul.gradesec{
+	margin-left:50px;
+	padding:10px;
+}
+ul.gradesec li{
+	width:500px;
+	height:25px;
+	padding:5px 5px;
+	padding-left:30px;
+	line-height:25px;
+	background:url('../images/icon.png') no-repeat left center;
+}
+ul.gradesec li a{
+	font-size:16px;
+	color:#000;
+}
+ul.gradesec li:hover{
+	box-shadow:0px 2px 2px #999;
+}
+ul.gradesec li a:hover{
+	text-decoration:none;
+	color:#29A7D8;
+}
