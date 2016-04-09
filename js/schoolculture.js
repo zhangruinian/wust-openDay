@@ -21,6 +21,6 @@ $(document).ready(function(e) {
 		var index = w_right.index(this);
 		w_qhimgxs1.eq(index).fadeOut(300);
 	});
-           
+
 
 });

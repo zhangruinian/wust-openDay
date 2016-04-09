@@ -74,5 +74,13 @@
 	top:17px;
 	width:146px;
 	height:66px;
-}
 
+}
+/* careerintro.jsp 专业介绍-样式 树形图*/
+ul#treeDemo{
+	width: 200px;
+	margin: 0 auto;
+}
+ul#treeDemo li{
+	padding-top:5px;
+}

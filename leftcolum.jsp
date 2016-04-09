@@ -6,6 +6,7 @@
 <title>左边栏目部分</title>
 <link type="text/css" rel="stylesheet" href="css/common.css" />
 <link type="text/css" rel="stylesheet" href="css/leftcolum.css" />
+
 <script type="text/javascript" src="js/jquery-1.8.2.js"></script>
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery.scrollbox.js"></script>
@@ -30,7 +31,7 @@
                     </div>
                     <div style="clear:both;"></div>
                     <div class="bottomtwo_y">
-                    	<p class="briefintro_y"><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=11"base target="_blank">专业介绍</a></p>
+                    	<p class="briefintro_y"><a href="careerintro.jsp"base target="_blank">专业介绍</a></p>
                         <p class="briefgrade_y"><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=6"base target="_blank">历年分数线</a></p>
                     </div>
                 </div>

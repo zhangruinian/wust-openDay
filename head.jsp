@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>2015网上校园开放日</title>
+<title>2016网上校园开放日</title>
 <link href="css/common.css" type="text/css" rel="stylesheet" />
 <link href="css/index.css" type="text/css" rel="stylesheet" />
 </head>
@@ -13,7 +13,7 @@
 					<img src="images/wust_logo1.png" />
 				</div>
 				<div class="s_headright">
-					<p class="kaifang">2015网上校园开放日</p>
+					<p class="kaifang">2016网上校园开放日</p>
 					<p class="kaifangtime">时间：6月23日-6月28日</p>
 					<img src="images/s_xiaoxun.png" class="s_xiaoxun"/>
 				</div>

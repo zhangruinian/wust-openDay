@@ -3,9 +3,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>2015网上校园开放日</title>
+        <title>2016网上校园开放日</title>
         <link href="css/common.css" type="text/css" rel="stylesheet" />
         <link href="css/index.css" type="text/css" rel="stylesheet" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     </head>
 <body>
     <div class="s_bg">
