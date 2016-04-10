@@ -6,18 +6,16 @@
         <title>2016网上校园开放日</title>
         <link href="css/common.css" type="text/css" rel="stylesheet" />
         <link href="css/index.css" type="text/css" rel="stylesheet" />
-        <script src="js/jquery-1.8.2.js" ></script>
+        
         <script src="js/myfocus-2.0.1.min.js" ></script>
         <script>
-            $(document).ready(function() {
-                // 焦点轮播图设置
+           // 焦点轮播图设置
                 myFocus.set({
                     //ID
                     id: 'picBox',
                     //风格
                     pattern: 'mF_YSlider'
                 });
-            });
         </script>
     </head>
     <body>
@@ -33,9 +31,10 @@
             <div style="float:clear;"></div>
             
         </div>
-       <!--  <div class="s_headimg">
+        <!-- <div class="s_headimg">
                     <img src="images/wust_bg1.png" />
         </div> -->
+        <!-- 头部轮播图 -->
         <div class="s_headimg">
             <div id="picBox">
                 <div class="pic">
