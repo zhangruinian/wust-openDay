@@ -23,17 +23,17 @@ var zTreeObj;
                      { name:"建筑学",icon:"images/major.png"},
                      { name:"土木工程",icon:"images/major.png"}
                   ]},
-                { name:"管理学院",icon:"images/college.png",
+                { name:"管理学院",icon:"images/college.png",url:"guanli-major.jsp", target:"_self",
                   children: [
-                     { name:"财务管理",icon:"images/major.png"},
-                     { name:"电子商务",icon:"images/major.png"},
-                     { name:"工程管理",icon:"images/major.png"},
-                     { name:"工商管理",icon:"images/major.png"},
-                     { name:"会计学",icon:"images/major.png"},
-                      { name:"人力资源管理",icon:"images/major.png"},
-                     { name:"市场营销",icon:"images/major.png"},
-                     { name:"物流管理",icon:"images/major.png"},
-                     {name:"信息管理与信息系统",icon:"images/major.png"}
+                     { name:"财务管理",icon:"images/major.png",url:"guanli-major.jsp#caiwu",target:"_self"},
+                     { name:"电子商务",icon:"images/major.png",url:"guanli-major.jsp#dianshang",target:"_self"},
+                     { name:"工程管理",icon:"images/major.png",url:"guanli-major.jsp#gongcheng",target:"_self"},
+                     { name:"工商管理",icon:"images/major.png",url:"guanli-major.jsp#gongshang",target:"_self"},
+                     { name:"会计学",icon:"images/major.png",url:"guanli-major.jsp#kuaiji",target:"_self"},
+                      { name:"人力资源管理",icon:"images/major.png",url:"guanli-major.jsp#renli",target:"_self"},
+                     { name:"市场营销",icon:"images/major.png",url:"guanli-major.jsp#shichang",target:"_self"},
+                     { name:"物流管理",icon:"images/major.png",url:"guanli-major.jsp#wuliu",target:"_self"},
+                     {name:"信息管理与信息系统",icon:"images/major.png",url:"guanli-major.jsp#xinxi",target:"_self"}
                   ]},
                    { name:"化学工程与技术学院",icon:"images/college.png",
                   children: [

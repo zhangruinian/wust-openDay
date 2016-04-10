@@ -93,6 +93,32 @@ ul#treeDemo li{
 ul#treeDemo span{
 	font-size:16px;
 }
+
+.majorDetails{
+	width:740px;
+	margin:15px auto;
+}
+.majorDetails p{
+	font-size:14px;
+	line-height:24px;
+	text-indent:4em;
+	margin-bottom:8px;
+}
+.majorDetails h3{
+           font-size:16px;
+           margin-bottom:15px;
+           margin-top:15px;
+}
+.majorDetails h3 a{
+	color:#000;
+}
+.majorDetails h3 a:hover{
+	color:#000;
+	text-decoration:none;
+}
+.majorDetails strong{
+	font-size:14px;
+}
 /* gradeasec.jsp历年分数线 */
 ul.gradesec{
 	margin-left:50px;
