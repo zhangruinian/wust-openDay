@@ -1,0 +1,16 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   all2014.jsp
+#	modified:   all2015.jsp
+#	modified:   css/index.css
+#	modified:   css/jquery.tableui.css
+#	modified:   hb2014.jsp
+#	modified:   hb2015.jsp
+#	modified:   nds2015.jsp
+#
+

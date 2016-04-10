@@ -5,9 +5,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>2015年各省（市、区）高考录取分数线及我校录取情况</title>
 <link type="text/css" rel="stylesheet" href="css/common.css" />
-<link type="text/css" rel="stylesheet" href="css/index.css" />
-<link type="text/css" rel="stylesheet" href="css/briefintro.css" />
 <link href='css/jquery.tableui.css'  rel="stylesheet" type="text/css"/>
+<link type="text/css" rel="stylesheet" href="css/briefintro.css" />
+<link type="text/css" rel="stylesheet" href="css/index.css" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <script src="js/jquery-1.8.2.js"></script>
 <script src="js/jquery.tableui.js"></script>
@@ -35,599 +35,596 @@
                
                 <div class="contenty_y">
                     <p class="titlecon_y">2015年各省（市、区）高考录取分数线及我校录取情况</p>
-                    <table class="table_solid" cellspacing="0" cellpadding="0" border="0" width="805" style="width: 805px; border-collapse: collapse; height: 963px">
-                        <colgroup><col width="72" style="width: 54pt"><col width="66" style="width: 50pt; mso-width-source: userset; mso-width-alt: 2112"><col width="72" span="3" style="width: 54pt; mso-width-source: userset; mso-width-alt: 2304"><col width="72" span="4" style="width: 54pt"><col width="311" style="width: 233pt; mso-width-source: userset; mso-width-alt: 9952"></colgroup>
-                        <tbody>
-                            <tr height="18" style="height: 13.5pt">
-                                <td width="72" height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; width: 54pt; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent; text-align: center" rowspan="2" class="xl67"><strong><font size="2" face="宋体">省份</font></strong></td>
-                                <td width="66" style="border-right: windowtext 0.5pt solid; border-top: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; width: 50pt; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" rowspan="2" class="xl74"><strong><font size="2" face="宋体">录取批次</font></strong></td>
-                                <td width="72" style="border-right: windowtext 0.5pt solid; border-top: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; width: 54pt; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" rowspan="2" class="xl67"><strong><font size="2" face="宋体">科类</font></strong></td>
-                                <td width="144" style="border-right: windowtext 0.5pt solid; border-top: windowtext 0.5pt solid; border-left: windowtext; width: 108pt; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" colspan="2" class="xl67"><strong><font size="2" face="宋体">各省份批次控制线</font></strong></td>
-                                <td width="144" style="border-right: windowtext 0.5pt solid; border-top: windowtext 0.5pt solid; border-left: windowtext; width: 108pt; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" colspan="2" class="xl67"><strong><font size="2" face="宋体">我校一志愿投档情况</font></strong></td>
-                                <td width="144" style="border-right: windowtext 0.5pt solid; border-top: windowtext 0.5pt solid; border-left: windowtext; width: 108pt; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" colspan="2" class="xl68"><strong><font size="2" face="宋体">我校录取情况</font></strong></td>
-                                <td width="311" style="border-right: windowtext 0.5pt solid; border-top: windowtext 0.5pt solid; border-left: windowtext 0.5pt solid; width: 233pt; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" rowspan="2" class="xl67"><strong><font size="2" face="宋体">备注</font></strong></td>
+                    <table class="table_solid" cellspacing="0" cellpadding="0" >
+                            <tr>
+                                <th rowspan="2">省份</th>
+                                <th rowspan="2">录取批次</th>
+                                <th rowspan="2">科类</th>
+                                <th colspan="2">各省份批次控制线</th>
+                                <th colspan="2" >我校一志愿投档情况</th>
+                                <th colspan="2">我校录取情况</th>
+                                <th rowspan="2">备注</th>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent; text-align: center" class="xl67"><strong><font size="2" face="宋体">第一批</font></strong></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" class="xl67"><strong><font size="2" face="宋体">第二批</font></strong></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" class="xl67"><strong><font size="2" face="宋体">最高分</font></strong></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" class="xl67"><strong><font size="2" face="宋体">最低分</font></strong></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" class="xl68"><strong><font size="2" face="宋体">最高分</font></strong></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent; text-align: center" class="xl68"><strong><font size="2" face="宋体">最低分</font></strong></td>
+                            <tr>
+                                <th>第一批</th>
+                                <th>第二批</th>
+                                <th>最高分</th>
+                                <th>最低分</th>
+                                <th>最高分</th>
+                                <th>最低分</th>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">安徽</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">555</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><span style="mso-spacerun: yes"><font size="2" face="宋体">&nbsp;</font></span></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">611</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">596</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">611</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">596</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加13个计划</font></td>
+                            <tr>
+                                <td rowspan="2">安徽</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>555</td>
+                                <td>&nbsp;</td>
+                                <td>611</td>
+                                <td>596</td>
+                                <td>611</td>
+                                <td>596</td>
+                                <td>追加13个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">597</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">620</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">615</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">620</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">615</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>597</td>
+                                <td>&#12288;</td>
+                                <td>620</td>
+                                <td>615</td>
+                                <td>620</td>
+                                <td>615</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">北京</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">2</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">495</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">532</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">503</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">532</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">503</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>北京</td>
+                                <td>2</td>
+                                <td>理工</td>
+                                <td>&#12288;</td>
+                                <td>495</td>
+                                <td>532</td>
+                                <td>503</td>
+                                <td>532</td>
+                                <td>503</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">福建</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">525</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">589</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">573</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">589</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">573</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加4个计划</font></td>
+                            <tr>
+                                <td rowspan="2">福建</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>525</td>
+                                <td>&#12288;</td>
+                                <td>589</td>
+                                <td>573</td>
+                                <td>589</td>
+                                <td>573</td>
+                                <td>追加4个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">549</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">584</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">574</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">584</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">574</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>549</td>
+                                <td>&#12288;</td>
+                                <td>584</td>
+                                <td>574</td>
+                                <td>584</td>
+                                <td>574</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">甘肃</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">475</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">534</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">510</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">534</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">510</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td rowspan="2">甘肃</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>475</td>
+                                <td>&#12288;</td>
+                                <td>534</td>
+                                <td>510</td>
+                                <td>534</td>
+                                <td>510</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">517</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">551</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">533</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">551</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">533</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>517</td>
+                                <td>&#12288;</td>
+                                <td>551</td>
+                                <td>533</td>
+                                <td>551</td>
+                                <td>533</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">广东</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">2A</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><span style="mso-spacerun: yes"><font size="2" face="宋体">&nbsp;</font></span></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">519</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">586</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">574</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">586</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">574</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加4个计划</font></td>
+                            <tr>
+                                <td rowspan="2">广东</td>
+                                <td rowspan="2">2A</td>
+                                <td>理工</td>
+                                <td>&nbsp;</td>
+                                <td>519</td>
+                                <td>586</td>
+                                <td>574</td>
+                                <td>586</td>
+                                <td>574</td>
+                                <td>追加4个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">524</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">572</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">562</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">572</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">562</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>&#12288;</td>
+                                <td>524</td>
+                                <td>572</td>
+                                <td>562</td>
+                                <td>572</td>
+                                <td>562</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">广西</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">480</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">551</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">498</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">551</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">499</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td rowspan="2">广西</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>480</td>
+                                <td>&#12288;</td>
+                                <td>551</td>
+                                <td>498</td>
+                                <td>551</td>
+                                <td>499</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">530</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">564</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">542</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">564</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">542</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>530</td>
+                                <td>&#12288;</td>
+                                <td>564</td>
+                                <td>542</td>
+                                <td>564</td>
+                                <td>542</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">贵州</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">453</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">522</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">482</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">522</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">466</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td rowspan="2">贵州</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>453</td>
+                                <td>&#12288;</td>
+                                <td>522</td>
+                                <td>482</td>
+                                <td>522</td>
+                                <td>466</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">543</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">570</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">552</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">570</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">552</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>543</td>
+                                <td>&#12288;</td>
+                                <td>570</td>
+                                <td>552</td>
+                                <td>570</td>
+                                <td>552</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">海南</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">608</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">700</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">645</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">700</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">645</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>海南</td>
+                                <td>1</td>
+                                <td>理工</td>
+                                <td>608</td>
+                                <td>&#12288;</td>
+                                <td>700</td>
+                                <td>645</td>
+                                <td>700</td>
+                                <td>645</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">河北</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">544</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">592</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">577</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">592</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">577</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加2个计划</font></td>
+                            <tr>
+                                <td rowspan="2">河北</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>544</td>
+                                <td>&#12288;</td>
+                                <td>592</td>
+                                <td>577</td>
+                                <td>592</td>
+                                <td>577</td>
+                                <td>追加2个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">548</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">573</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">560</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">573</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">560</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>548</td>
+                                <td>&#12288;</td>
+                                <td>573</td>
+                                <td>560</td>
+                                <td>573</td>
+                                <td>560</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">河南</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">529</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">588</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">570</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">588</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">570</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td rowspan="2">河南</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>529</td>
+                                <td>&#12288;</td>
+                                <td>588</td>
+                                <td>570</td>
+                                <td>588</td>
+                                <td>570</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">513</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">543</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">535</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">543</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">535</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>513</td>
+                                <td>&#12288;</td>
+                                <td>543</td>
+                                <td>535</td>
+                                <td>543</td>
+                                <td>535</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">黑龙江</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">1A</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">483</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">576</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">543</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">576</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">543</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加3个计划</font></td>
+                            <tr>
+                                <td>黑龙江</td>
+                                <td>1A</td>
+                                <td>理工</td>
+                                <td>483</td>
+                                <td>&#12288;</td>
+                                <td>576</td>
+                                <td>543</td>
+                                <td>576</td>
+                                <td>543</td>
+                                <td>追加3个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">湖北</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">510</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">609</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">551</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">609</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">551</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl73"><font size="2"><font face="宋体">追加2<font class="font6">98</font><font class="font8">个计划，护理学最低536、中外合作办学最低529、国家专项计划最低</font><font class="font6">540</font></font></font></td>
+                            <tr>
+                                <td rowspan="2">湖北</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>510</td>
+                                <td>&#12288;</td>
+                                <td>609</td>
+                                <td>551</td>
+                                <td>609</td>
+                                <td>551</td>
+                                <td>540</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">521</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">565</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">542</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">565</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">542</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加7个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>521</td>
+                                <td>&#12288;</td>
+                                <td>565</td>
+                                <td>542</td>
+                                <td>565</td>
+                                <td>542</td>
+                                <td>追加7个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">湖南</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">526</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">594</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">571</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">594</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">571</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加4个计划</font></td>
+                            <tr>
+                                <td rowspan="2">湖南</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>526</td>
+                                <td>&#12288;</td>
+                                <td>594</td>
+                                <td>571</td>
+                                <td>594</td>
+                                <td>571</td>
+                                <td>追加4个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">535</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">572</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">562</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">572</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">562</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>535</td>
+                                <td>&#12288;</td>
+                                <td>572</td>
+                                <td>562</td>
+                                <td>572</td>
+                                <td>562</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">吉林</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">1A</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">525</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">566</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">535</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">566</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">535</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>吉林</td>
+                                <td>1A</td>
+                                <td>理工</td>
+                                <td>525</td>
+                                <td>&#12288;</td>
+                                <td>566</td>
+                                <td>535</td>
+                                <td>566</td>
+                                <td>535</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">江苏</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">344</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">355</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">345</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">355</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">345</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td rowspan="2">江苏</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>344</td>
+                                <td>&#12288;</td>
+                                <td>355</td>
+                                <td>345</td>
+                                <td>355</td>
+                                <td>345</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">342</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">346</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">342</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">346</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">343</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>342</td>
+                                <td>&#12288;</td>
+                                <td>346</td>
+                                <td>342</td>
+                                <td>346</td>
+                                <td>343</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">江西</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">540</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">585</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">572</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">585</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">572</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加3个计划</font></td>
+                            <tr>
+                                <td rowspan="2">江西</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>540</td>
+                                <td>&#12288;</td>
+                                <td>585</td>
+                                <td>572</td>
+                                <td>585</td>
+                                <td>572</td>
+                                <td>追加3个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">528</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">546</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">538</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">546</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">538</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>528</td>
+                                <td>&#12288;</td>
+                                <td>546</td>
+                                <td>538</td>
+                                <td>546</td>
+                                <td>538</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">辽宁</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">1B</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">500</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">555</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">528</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">555</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">528</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加13个计划</font></td>
+                            <tr>
+                                <td>辽宁</td>
+                                <td>1B</td>
+                                <td>理工</td>
+                                <td>500</td>
+                                <td>&#12288;</td>
+                                <td>555</td>
+                                <td>528</td>
+                                <td>555</td>
+                                <td>528</td>
+                                <td>追加13个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">内蒙古</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">464</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">555</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">470</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">555</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">495</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>内蒙古</td>
+                                <td>1</td>
+                                <td>理工</td>
+                                <td>464</td>
+                                <td>&#12288;</td>
+                                <td>555</td>
+                                <td>470</td>
+                                <td>555</td>
+                                <td>495</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">宁夏</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">445</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">519</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">483</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">519</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">483</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>宁夏</td>
+                                <td>1</td>
+                                <td>理工</td>
+                                <td>445</td>
+                                <td>&#12288;</td>
+                                <td>519</td>
+                                <td>483</td>
+                                <td>519</td>
+                                <td>483</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">青海</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">400</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">499</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">410</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">502</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">405</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>青海</td>
+                                <td>1</td>
+                                <td>理工</td>
+                                <td>400</td>
+                                <td>&#12288;</td>
+                                <td>499</td>
+                                <td>410</td>
+                                <td>502</td>
+                                <td>405</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">山东</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">562</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">620</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">604</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">620</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">604</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加12个计划</font></td>
+                            <tr>
+                                <td  rowspan="2">山东</td>
+                                <td  rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>562</td>
+                                <td>&#12288;</td>
+                                <td>620</td>
+                                <td>604</td>
+                                <td>620</td>
+                                <td>604</td>
+                                <td>追加12个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">568</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">597</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">583</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">597</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">583</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>568</td>
+                                <td>&#12288;</td>
+                                <td>597</td>
+                                <td>583</td>
+                                <td>597</td>
+                                <td>583</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">山西</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1B</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">515</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">551</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">520</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">551</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">520</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td rowspan="2">山西</td>
+                                <td rowspan="2">1B</td>
+                                <td>理工</td>
+                                <td>515</td>
+                                <td>&#12288;</td>
+                                <td>551</td>
+                                <td>520</td>
+                                <td>551</td>
+                                <td>520</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">513</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">536</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">514</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">536</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">514</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>513</td>
+                                <td>&#12288;</td>
+                                <td>536</td>
+                                <td>514</td>
+                                <td>536</td>
+                                <td>514</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">陕西</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">480</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">546</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">523</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">546</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">523</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td rowspan="2">陕西</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>480</td>
+                                <td>&#12288;</td>
+                                <td>546</td>
+                                <td>523</td>
+                                <td>546</td>
+                                <td>523</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">510</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">545</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">532</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">545</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">532</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>510</td>
+                                <td>&#12288;</td>
+                                <td>545</td>
+                                <td>532</td>
+                                <td>545</td>
+                                <td>532</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">上海</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">2</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><span style="mso-spacerun: yes"><font size="2" face="宋体">&nbsp;</font></span></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">348</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">378</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">367</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">378</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">367</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><span style="mso-spacerun: yes"><font size="2" face="宋体">&nbsp;</font></span></td>
+                            <tr>
+                                <td>上海</td>
+                                <td>2</td>
+                                <td>理工</td>
+                                <td>&nbsp;</td>
+                                <td>348</td>
+                                <td>378</td>
+                                <td>367</td>
+                                <td>378</td>
+                                <td>367</td>
+                                <td>&nbsp;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">四川</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">528</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">578</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">560</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">578</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">560</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加3个计划</font></td>
+                            <tr>
+                                <td  rowspan="2">四川</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>528</td>
+                                <td>&#12288;</td>
+                                <td>578</td>
+                                <td>560</td>
+                                <td>578</td>
+                                <td>560</td>
+                                <td>追加3个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">543</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">578</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">558</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">578</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">558</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><span style="mso-spacerun: yes"><font size="2" face="宋体">&nbsp;</font></span></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>543</td>
+                                <td>&#12288;</td>
+                                <td>578</td>
+                                <td>558</td>
+                                <td>578</td>
+                                <td>558</td>
+                                <td>&nbsp;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">天津</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">1B</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">538</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">556</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">542</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">556</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">542</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加2个计划</font></td>
+                            <tr>
+                                <td>天津</td>
+                                <td>1B</td>
+                                <td>理工</td>
+                                <td>538</td>
+                                <td>&#12288;</td>
+                                <td>556</td>
+                                <td>542</td>
+                                <td>556</td>
+                                <td>542</td>
+                                <td>追加2个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">新疆</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">446</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">539</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">490</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">539</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">490</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加2个计划</font></td>
+                            <tr>
+                                <td rowspan="2">新疆</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>446</td>
+                                <td>&#12288;</td>
+                                <td>539</td>
+                                <td>490</td>
+                                <td>539</td>
+                                <td>490</td>
+                                <td>追加2个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">486</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">545</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">526</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">545</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">526</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>486</td>
+                                <td>&#12288;</td>
+                                <td>545</td>
+                                <td>526</td>
+                                <td>545</td>
+                                <td>526</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">云南</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">500</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">567</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">520</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">567</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">520</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td rowspan="2">云南</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>500</td>
+                                <td>&#12288;</td>
+                                <td>567</td>
+                                <td>520</td>
+                                <td>567</td>
+                                <td>520</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">540</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">578</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">556</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">578</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">556</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>540</td>
+                                <td>&#12288;</td>
+                                <td>578</td>
+                                <td>556</td>
+                                <td>578</td>
+                                <td>556</td>
+                                <td>追加1个计划</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="54" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 40.5pt; background-color: transparent" rowspan="3" class="xl69"><font size="2" face="宋体">浙江</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">605</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">643</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">620</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">643</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">620</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td  rowspan="3">浙江</td>
+                                <td>1</td>
+                                <td>理工</td>
+                                <td>605</td>
+                                <td>&#12288;</td>
+                                <td>643</td>
+                                <td>620</td>
+                                <td>643</td>
+                                <td>620</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">2</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><span style="mso-spacerun: yes"><font size="2" face="宋体">&nbsp;</font></span></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">428</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">566</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">550</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">566</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">550</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td rowspan="2">2</td>
+                                <td>理工</td>
+                                <td>&nbsp;</td>
+                                <td>428</td>
+                                <td>566</td>
+                                <td>550</td>
+                                <td>566</td>
+                                <td>550</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><span style="mso-spacerun: yes"><font size="2" face="宋体">&nbsp;</font></span></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">472</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">582</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">567</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">582</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">567</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>&nbsp;</td>
+                                <td>472</td>
+                                <td>582</td>
+                                <td>567</td>
+                                <td>582</td>
+                                <td>567</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="36" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; height: 27pt; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">重庆</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext 0.5pt solid; border-bottom: windowtext 0.5pt solid; background-color: transparent" rowspan="2" class="xl69"><font size="2" face="宋体">1</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">理工</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">573</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">621</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">611</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">621</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">611</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">&#12288;</font></td>
+                            <tr>
+                                <td rowspan="2">重庆</td>
+                                <td rowspan="2">1</td>
+                                <td>理工</td>
+                                <td>573</td>
+                                <td>&#12288;</td>
+                                <td>621</td>
+                                <td>611</td>
+                                <td>621</td>
+                                <td>611</td>
+                                <td>&#12288;</td>
                             </tr>
-                            <tr height="18" style="height: 13.5pt">
-                                <td height="18" style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; height: 13.5pt; background-color: transparent" class="xl69"><font size="2" face="宋体">文史</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">572</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">&#12288;</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">604</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">592</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl71"><font size="2" face="宋体">604</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl69"><font size="2" face="宋体">592</font></td>
-                                <td style="border-right: windowtext 0.5pt solid; border-top: windowtext; border-left: windowtext; border-bottom: windowtext 0.5pt solid; background-color: transparent" class="xl70"><font size="2" face="宋体">追加1个计划</font></td>
+                            <tr>
+                                <td>文史</td>
+                                <td>572</td>
+                                <td>&#12288;</td>
+                                <td>604</td>
+                                <td>592</td>
+                                <td>604</td>
+                                <td>592</td>
+                                <td>追加1个计划</td>
                             </tr>
-                        </tbody>
-                    </table>
+                        </table>
                     
             </div>
         </div>       

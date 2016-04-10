@@ -20,8 +20,8 @@
 				<div style="float:clear;"></div>
 				
 			</div>
-			<div class="s_headimg">
+			<!-- <div class="s_headimg">
 					<img src="images/wust_bg1.png" />
-			</div>
+			</div> -->
 </body>
 </html>

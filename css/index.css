@@ -54,7 +54,7 @@
 }
 .s_headimg img{
 	width:1024px;
-	heigtht:215px;
+	height:215px;
 }
 .left{
 	float:left;
@@ -110,4 +110,7 @@ ul.gradesec li:hover{
 ul.gradesec li a:hover{
 	text-decoration:none;
 	color:#29A7D8;
+}
+.table_solid{
+	width:740px;
 }
