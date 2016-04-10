@@ -21,8 +21,8 @@
                 <li><a href="briftintro.jsp" base target="_blank">学校概况</a></li>
 	    		<li><a href="cruitregu.jsp" base target="_blank">招生简章</a></li>
 	    		<li><a href="cruitplan.jsp" base target="_blank">招生计划</a></li>
-	    		<li><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=11" base target="_blank">专业介绍</a></li>
-	    		<li><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=6" base target="_blank">历年分数线</a></li>
+	    		<li><a href="careerintro.jsp" base target="_self">专业介绍</a></li>
+	    		<li><a href="gradesec.jsp" base target="_self">历年分数线</a></li>
 	    	</ul>
 	    </div>
     </div>

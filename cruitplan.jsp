@@ -7,6 +7,17 @@
 <link type="text/css" rel="stylesheet" href="css/common.css" />
 <link type="text/css" rel="stylesheet" href="css/index.css" />
 <link type="text/css" rel="stylesheet" href="css/briefintro.css" />
+<link href='css/jquery.tableui.css'  rel="stylesheet" type="text/css"/>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<script src="js/jquery-1.8.2.js"></script>
+<script src="js/jquery.tableui.js"></script>
+<script type="text/javascript">
+    $(function(){
+        $(".table_solid").tableUI();
+        
+    });
+</script>
+
 </head>
 
 <body>
@@ -23,19 +34,19 @@
             	<p class="colunomin_y"><a href="index.jsp" base target="_blank">首页</a>>招生计划</p>
               <div class="contenty_y">
                 	<p class="titlecon_y">招生计划</p>
-	              <table class="plan_sta">
+	              <table class="table_solid" cellspacing="0" cellpadding="0" >
 		              <tr>
-		              	<td>学院名称</td>
-		              	<td>专业名称</td>
-		              	<td>授予学位</td>
-		              	<td>学制</td>
-		              	<td>层次</td>
-		              	<td>招收科类</td>
-		              	<td>计划数</td>
-		              	<td>学费  </br>（元/年）</td>
+		              	<th>学院名称</th>
+		              	<th>专业名称</th>
+		              	<th>授予学位</th>
+		              	<th>学制</th>
+		              	<th>层次</th>
+		              	<th>招收科类</th>
+		              	<th>计划数</th>
+		              	<th>学费  </br>（元/年）</th>
 		              </tr>
 		              <tr>
-		              	<td rowspan="6">材料与冶金学院 ★</td>
+		              	<th rowspan="6">材料与冶金学院 ★</th>
 		              	<td>材料成型及控制工程 ▲</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
@@ -91,7 +102,7 @@
 		              	<td>5850</td>
 		              </tr>
 		              <tr>
-		              	<td rowspan="5">城市建设学院</td>
+		              	<th rowspan="5">城市建设学院</th>
 		              	<td>城乡规划</td>
 		              	<td>工学学士</td>
 		              	<td>五年</td>
@@ -137,7 +148,7 @@
 		              	<td>5850</td>
 		              </tr>
 		              <tr>
-		              	<td rowspan="10">管理学院 ◆</td>
+		              	<th rowspan="10">管理学院 ◆</th>
 		              	<td>财务管理</td>
 		              	<td>管理学学士</td>
 		              	<td>四年</td>
@@ -228,7 +239,7 @@
 		              	<td>5850</td>
 		              </tr>
 		              <tr>
-		              	<td rowspan="3">化学工程与技术学院</td>
+		              	<th rowspan="3">化学工程与技术学院</th>
 		              	<td>化学工程与工艺 ●</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
@@ -256,7 +267,7 @@
 		              	<td>4500</td>
 		              </tr>
 		              <tr>
-		              	<td rowspan="2">机械自动化学院</td>
+		              	<th rowspan="2">机械自动化学院</th>
 		              	<td>工业工程</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
@@ -275,7 +286,7 @@
 		              	<td>5850</td>
 		              </tr>
 		              <tr>
-		              	<td rowspan="5">计算机科学</br>与技术学院</td>
+		              	<th rowspan="5">计算机科学</br>与技术学院</th>
 		              	<td>计算机科学与技术 ●</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
@@ -321,7 +332,7 @@
 		              	<td>4500</td>
 		              </tr>
 		              <tr>
-		              	<td rowspan="4">理学院</td>
+		              	<th rowspan="4">理学院</th>
 		              	<td>材料物理</td>
 		              	<td>理学学士</td>
 		              	<td>四年</td>
@@ -358,7 +369,7 @@
 		              	<td>4500</td>
 		              </tr>
 		              <tr>	
-		              	<td rowspan="5">汽车与交通工程学院</td>	             
+		              	<th rowspan="5">汽车与交通工程学院</th>	             
 		              	<td>车辆工程 ▲</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
@@ -405,7 +416,7 @@
 		              	<td>4500</td>
 		              </tr>
 		              <tr>	
-		              	<td rowspan="3">外国语学院</td>	             
+		              	<th rowspan="3">外国语学院</th>	             
 		              	<td>德语</td>
 		              	<td>文学学士</td>
 		              	<td>四年</td>
@@ -434,7 +445,7 @@
 		              	<td>4500</td>
 		              </tr>
 		              <tr>		
-		              	<td rowspan="6">文法与经济学院</td>             
+		              	<th rowspan="6">文法与经济学院</th>             
 		              	<td>法学</td>
 		              	<td>法学学士</td>
 		              	<td>四年</td>
@@ -489,7 +500,7 @@
 		              	<td>4500</td>
 		              </tr>
 		              <tr>	
-		              	<td rowspan="5">信息科学与工程学院</td>	             
+		              	<th rowspan="5">信息科学与工程学院</th>	             
 		              	<td>电气工程及其自动化</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
@@ -535,7 +546,7 @@
 		              	<td>5850</td>
 		              </tr>
 		              <tr>		
-		              	<td rowspan="5">医学院</td>             
+		              	<th rowspan="5">医学院</th>             
 		              	<td>护理学</td>
 		              	<td>理学学士</td>
 		              	<td>四年</td>
@@ -581,7 +592,7 @@
 		              	<td>4500</td>
 		              </tr>	 
 		              <tr>	
-		              	<td rowspan="6">艺术与设计学院</td>	            
+		              	<th rowspan="6">艺术与设计学院</th>	            
 		              	<td>产品设计</td>
 		              	<td>艺术学学士</td>
 		              	<td>四年</td>
@@ -636,7 +647,7 @@
 		              	<td>4500 </td>
 		             </tr>
 		             <tr>	
-		             	<td rowspan="5">资源与环境工程学院</td>	            
+		             	<th rowspan="5">资源与环境工程学院</th>	            
 		              	<td>安全工程</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
@@ -682,7 +693,7 @@
 		              	<td>4500</td>
 		              </tr> 
 		               <tr>	
-		               	<td rowspan="3">国际学院</td>	            
+		               	<th rowspan="3">国际学院</th>	            
 		              	<td>电子信息工程</br>(中外合作办学)</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
