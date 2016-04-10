@@ -82,9 +82,11 @@ ul#treeDemo{
 	margin: 0 auto;
 }
 ul#treeDemo li{
-	padding-top:5px;
+	padding-top:7px;
 }
-
+ul#treeDemo span{
+	font-size:16px;
+}
 /* gradeasec.jsp历年分数线 */
 ul.gradesec{
 	margin-left:50px;
