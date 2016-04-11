@@ -6,22 +6,22 @@ var zTreeObj;
   var zNodes =[
          { name:"武汉科技大学", open:true,icon:"images/wusticon.png",
             children: [
-               { name:"材料与冶金学院",icon:"images/college.png",
+               { name:"材料与冶金学院",icon:"images/college.png",url:"caiye-major.jsp",target:"_self",
                   children: [
-                     {  name:"材料成型及控制工程 ",url:"http://www.163.com", target:"_blank",icon:"images/major.png",icon:"images/major.png"},
-                     { name:"材料化学",url:"index.jsp", target:"_blank",icon:"images/major.png"},
-                     { name:"金属材料工程",icon:"images/major.png"},
-                     { name:"能源与动力工程",icon:"images/major.png"},
-                     { name:"无机非金属材料工程",icon:"images/major.png"},
-                     { name:"冶金工程",icon:"images/major.png"}
+                     {  name:"材料成型及控制工程 ",icon:"images/major.png",icon:"images/major.png",url:"caiye-major.jsp#cailiao",target:"_self"},
+                     { name:"材料化学",icon:"images/major.png",url:"caiye-major.jsp#cailiaohuaxue",target:"_self"},
+                     { name:"金属材料工程",icon:"images/major.png",url:"caiye-major.jsp#jinshucailiao",target:"_self"},
+                     { name:"能源与动力工程",icon:"images/major.png",url:"caiye-major.jsp#nengyuan",target:"_self"},
+                     { name:"无机非金属材料工程",icon:"images/major.png",url:"caiye-major.jsp#wuji",target:"_self"},
+                     { name:"冶金工程",icon:"images/major.png",url:"caiye-major.jsp#yejin",target:"_self"}
                   ]},
-               { name:"城市建设学院",icon:"images/college.png",
+               { name:"城市建设学院",icon:"images/college.png",url:"chengjian-major.jsp",target:"_self",
                   children: [
-                     { name:"城乡规划",icon:"images/major.png"},
-                     { name:"给排水科学与工程",icon:"images/major.png"},
-                     { name:"建筑环境与能源应用工程",icon:"images/major.png"},
-                     { name:"建筑学",icon:"images/major.png"},
-                     { name:"土木工程",icon:"images/major.png"}
+                     { name:"城乡规划",icon:"images/major.png",url:"chengjian-major.jsp#chengxiang",target:"_self"},
+                     { name:"给排水科学与工程",icon:"images/major.png",url:"chengjian-major.jsp#gipaishui",target:"_self"},
+                     { name:"建筑环境与能源应用工程",icon:"images/major.png",url:"chengjian-major.jsp#jianzhuhuanjing",target:"_self"},
+                     { name:"建筑学",icon:"images/major.png",url:"chengjian-major.jsp#jianzhuxue",target:"_self"},
+                     { name:"土木工程",icon:"images/major.png",url:"chengjian-major.jsp#tumu",target:"_self"}
                   ]},
                 { name:"管理学院",icon:"images/college.png",url:"guanli-major.jsp", target:"_self",
                   children: [
@@ -35,7 +35,7 @@ var zTreeObj;
                      { name:"物流管理",icon:"images/major.png",url:"guanli-major.jsp#wuliu",target:"_self"},
                      {name:"信息管理与信息系统",icon:"images/major.png",url:"guanli-major.jsp#xinxi",target:"_self"}
                   ]},
-                   { name:"化学工程与技术学院",icon:"images/college.png",
+                   { name:"化学工程与技术学院",icon:"images/college.png",url:"huagong-major.jsp",target:"_self",
                   children: [
                      { name:"化学工程与工艺",icon:"images/major.png"},
                      { name:"生物工程",icon:"images/major.png"},

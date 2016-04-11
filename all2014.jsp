@@ -44,7 +44,7 @@
                                 <th rowspan="2">
                                     录取批次
                                 </th>
-                                <th rowspan="2">
+                                <th rowspan="2" style="width: 40px">
                                     科类
                                 </th>
                                 <th colspan="2">
@@ -56,7 +56,7 @@
                                 <th colspan="2">
                                     我校录取情况
                                 </th>
-                                <th rowspan="2">
+                                <th rowspan="2" style="width: 250px">
                                     备注
                                 </th>
                             </tr>

@@ -38,14 +38,14 @@
                     <table class="table_solid" cellspacing="0" cellpadding="0" border="0" style="width: 700px" >
                        
                             <tr  >
-                                <th  style="width: 200px"  >科类</th>
+                                <th  style="width: 100px"  >科类</th>
                                 <th  >专业名称</th>
-                                <th  >最高分</th>
-                                <th  >最低分</th>
-                                <th  >平均分</th>
+                                <th  style="width: 70px"  >最高分</th>
+                                <th  style="width: 70px">最低分</th>
+                                <th style="width: 70px" >平均分</th>
                             </tr>
                             <tr  >
-                                <th  rowspan="63" style="width: 200px">理工类</th>
+                                <th  rowspan="63" >理工类</th>
                                 <td >安全工程</td>
                                 <td >562</td>
                                 <td >551</td>
@@ -424,7 +424,7 @@
                                 <td >557.8</td>
                             </tr>
                             <tr  >
-                                <th  rowspan="16" style="width: 200px">文史类</th>
+                                <th  rowspan="16" >文史类</th>
                                 <td >财务管理</td>
                                 <td >555</td>
                                 <td >548</td>

@@ -35,13 +35,13 @@
                
                 <div class="contenty_y">
                     <p class="titlecon_y">2015年武汉科技大学国防生录取分数一览表</p>
-                    <table class="table_solid" cellspacing="0" cellpadding="0" border="0"  style="width: 750px">
+                    <table class="table_solid" cellspacing="0" cellpadding="0" border="0"  style="width: 760px">
                        
                             <tr  >
-                                <th  rowspan="2" >省份</th>
-                                <th  rowspan="2" >录取批次</th>
-                                <th  rowspan="2" >科类</th>
-                                <th rowspan="2"  >各省第一批本科控制线</th>
+                                <th  rowspan="2" style="width: 30px" >省份</th>
+                                <th  rowspan="2" style="width: 70px">录取批次</th>
+                                <th  rowspan="2" style="width: 30px">科类</th>
+                                <th rowspan="2" style="width: 60px">各省第一批本科控制线</th>
                                 <th  colspan="4">我校第一志愿投档情况</th>
                                 <th  colspan="4">我校录取情况</th>
                             </tr>
