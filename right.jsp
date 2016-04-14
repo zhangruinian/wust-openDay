@@ -20,10 +20,10 @@
 		<ul class="j_concontent">
 			<li style="border:0px;"></li>
 			<li><a href="http://zs.wust.edu.cn/bk/Ask.aspx" base target="_blank">
-			<img src="images/j_wl.jpg" />&nbsp;&nbsp;
+			<img src="images/j_wl.jpg"/>&nbsp;&nbsp;
 			咨询方式一：&nbsp;招生网在线咨询</a>
 			</li>			
-			<li><a><img src="images/j_phone.jpg" />&nbsp;&nbsp;&nbsp;咨询方式二：
+			<li><a><img src="images/j_phone.png" />&nbsp;&nbsp;&nbsp;咨询方式二：
 			电话&nbsp;&nbsp;(027)68862888</a></li>
 			<li><a style="margin-left:35px;">咨&nbsp;询&nbsp;时&nbsp;间：
 			8&nbsp;:&nbsp;30&nbsp;-&nbsp;18&nbsp;:&nbsp;00</a></li>

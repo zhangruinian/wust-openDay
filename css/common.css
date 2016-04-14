@@ -204,7 +204,9 @@ body {
 }
 .s_jiaodian ul a:hover {
 	text-decoration: underline;
+	font-size:18px;
 	color: #8989ef;
+	text-shadow:1px 1px 1px ;
 }
 .span_yj {
 	width: 68px;

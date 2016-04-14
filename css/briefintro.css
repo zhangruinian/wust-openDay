@@ -23,8 +23,15 @@
 	margin-left:10px;
 }
 .colunomin_y a{
-	color:#034FA5;
+	
+	color:#467996;
+	
 	}
+.colunomin_y a:hover{
+	
+	color:#467996;
+	font-weight:bold;
+	}	
 .contenty_y{
 	width:750px;
 	margin:0 auto;

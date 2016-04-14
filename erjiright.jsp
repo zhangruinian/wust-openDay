@@ -8,6 +8,7 @@
 <link type="text/css" rel="stylesheet" href="css/common.css" />
 <link type="text/css" rel="stylesheet" href="css/index.css" />
 <link type="text/css" rel="stylesheet" href="css/briefintro.css" />
+
 </head>
 
 <body>
@@ -17,14 +18,14 @@
 	    </div>
 	    <div class="s_jiaodian">
 	    	<ul>
-	    		<li><a href="index.html" base target="_blank">报考指南</a></li>
-                <li><a href="briftintro.jsp" base target="_blank">学校概况</a></li>
-	    		<li><a href="cruitregu.jsp" base target="_blank">招生简章</a></li>
+	    		<li><a   href="index.html" base target="_blank">报考指南</a></li>
+                		<li><a href="briftintro.jsp" base target="_blank">学校概况</a></li>
+	    		<li><a  href="cruitregu.jsp" base target="_blank">招生简章</a></li>
 	    		<li><a href="cruitplan.jsp" base target="_blank">招生计划</a></li>
 	    		<li><a href="careerintro.jsp" base target="_self">专业介绍</a></li>
 	    		<li><a href="gradesec.jsp" base target="_self">历年分数线</a></li>
 	    	</ul>
 	    </div>
     </div>
-</body>
+ </body>
 </html>
