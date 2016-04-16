@@ -20,7 +20,7 @@
 		<ul class="j_concontent">
 			<li style="border:0px;"></li>
 			<li><a href="http://zs.wust.edu.cn/bk/Ask.aspx" base target="_blank">
-			<img src="images/j_wl.jpg"/>&nbsp;&nbsp;
+			<img src="images/j_wl.png"/>&nbsp;&nbsp;
 			咨询方式一：&nbsp;招生网在线咨询</a>
 			</li>			
 			<li><a><img src="images/j_phone.png" />&nbsp;&nbsp;&nbsp;咨询方式二：

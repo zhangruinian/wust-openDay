@@ -32,12 +32,14 @@
         <img src="images/wustweixin.png" />
     </div>
     <div class="s_footcenter">
-        <div class="s_foottext1"><a href="http://t.qq.com/wustxcb" base target="_blank">
+        <!-- <div class="s_foottext1"><a href="http://t.qq.com/wustxcb" base target="_blank">
             <img src="images/tenxunweibo.png" /><p >武汉科技大学腾讯微博</p>
         </a>
-    </div>
+    </div> -->
     <div class="s_foottext1"><a href="http://weibo.com/wust" base target="_blank">
-        <img src="images/xinlangweibo.png" /><p >武汉科技大学新浪微博</p>
+       <!--  <img src="images/xinlangweibo.png" /> --><p >武汉科技大学新浪微博</p>
+      
+        <img src="images/xinlangweibo.png" />
     </a>
 </div>
 </div>
