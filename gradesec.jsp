@@ -32,7 +32,8 @@
                         <li><a href="nds2015.jsp" base target="_blank">2015年武汉科技大学国防生录取分数一览表</a></li>
                         <li><a href="all2014.jsp" base target="_blank">2014年各省（市、区）高考录取分数线及我校录取情况</a></li>
                         <li><a href="hb2014.jsp" base target="_blank">2014年武汉科技大学分专业录取分数（湖北省）一览表</a></li>
-                        <li><a href="nds2014.jsp" base target="_blank">2014年武汉科技大学国防生录取分数一览表</a></li>
+                        <li><a href="all2013.jsp" base target="_blank">2013年各省（市、区）高考录取分数线及我校录取情况</a></li>
+                         <li><a href="hb2013.jsp" base target="_blank">2013年武汉科技大学分专业录取分数（湖北省）一览表</a></li>
                     </ul>
                     
             </div>
