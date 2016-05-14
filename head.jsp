@@ -14,7 +14,8 @@
                     //ID
                     id: 'picBox',
                     //风格
-                    pattern: 'mF_YSlider'
+                    pattern: 'mF_YSlider',
+                    txtHeight:'0'
                 });
         </script>
     </head>

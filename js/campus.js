@@ -45,7 +45,9 @@ $(document).ready(function() {
     timer = setInterval(function() {
         showImg(i);
         i++;
-        if (i > (length - 1)) { i = 0 }
+        if (i > (length - 1)) {
+            i = 0
+        }
     }, 3500);
 
     //杰出校友部分

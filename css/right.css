@@ -202,7 +202,7 @@
     height: auto;
     padding-top: 30px;
     /* background:#eee; */
-    
+
 }
 
 .dep_con {
@@ -248,7 +248,9 @@
     padding: 10px 10px 10px;
     background: #FFF;
     border: 1px solid #ddd;
-    transition:1s;-moz-transition:1s;-webkit-transition:1s; z-index:1;
+    transition:1s;
+    -moz-transition:1s;
+    -webkit-transition:1s; z-index:1;
 }
 .dep_con tr td img:hover {
     /* -webkit-transform: rotate(0deg);

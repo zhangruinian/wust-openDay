@@ -15,12 +15,12 @@
             <!--报考指南-->
             <div class="booklet_y">
                 <div class="bookchara_y">
-                    <p class="borcont_y"><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=16"base target="_blank">报考指南</a></p>
+                    <p class="borcont_y"><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=16"base target="_blank" >报考指南</a></p>
                     <p class="flobord_y"><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=16"base target="_blank">more>></a></p>
                 </div>
                 <div style="clear:both;height:15px;"></div>
                 <div class="conbook_y">
-                    <div class="leftcon_y"><a href="index.html" target="_blank"><img src="images/e-book.jpg"/></a></div>
+                    <div class="leftcon_y"><a href="index.html" target="_blank"><img title="点击查看报考指南" src="images/e-book.jpg"/></a></div>
                     <div class="rgtcon_y">
                         <div class="topthree_y">
                             <p class="briefintro_y"><a href="briftintro.jsp"base target="_blank">学校概况</a></p>
@@ -60,7 +60,7 @@
                     <a href="newscontent3.jsp" base target="_blank" class="presscfir_y">
                         
                         <p class="pressimg_y"><img src="images/icon.png" /></p>
-                        <p class="firpre_y">武汉晚报：当校长7年来始终坚持给本科生上课</p>
+                        <p class="firpre_y">光明网：武汉科技大学三次问鼎国际设计奥斯卡</p>
                         
                     </a>
                     <a href="newscontent6.jsp" base target="_blank" class="presscfir_y">
@@ -92,7 +92,7 @@
                 <div style="clear:both"></div>
                 <div class="magazine_y">
                     <div class="mageimg_y">
-                        <a href="http://rui.cnwust.com/18/online.html" base target="_black"><img src="images/magazine.png" /></a>
+                        <a href="http://rui.cnwust.com/18/online.html" base target="_black"><img title="点击查看锐杂志" src="images/magazine.png" /></a>
                     </div>
                     <div class="magechar_y">
                         <p class="maganame_y"><a href="http://rui.cnwust.com/18/online.html" target=_blank>《锐》杂志</a></p>

@@ -37,15 +37,16 @@ var zTreeObj;
                   ]},
                    { name:"化学工程与技术学院",icon:"images/college.png",url:"huagong-major.jsp",target:"_self",
                   children: [
-                     { name:"化学工程与工艺",icon:"images/major.png"},
-                     { name:"生物工程",icon:"images/major.png"},
-                     { name:"应用化学",icon:"images/major.png"}
+                     { name:"化学工程与工艺",icon:"images/major.png",url:"huagong-major.jsp#huagong",target:"_self"},
+                     { name:"生物工程",icon:"images/major.png",url:"huagong-major.jsp#shengwu",target:"_self"},
+                     { name:"应用化学",icon:"images/major.png",url:"huagong-major.jsp#yinghua",target:"_self"}
                   ]},
                    { name:"机械自动化学院",icon:"images/college.png",url:"jixie-major.jsp",target:"_self",
                   children: [
+                    { name:"测控技术与仪器",icon:"images/major.png",icon:"images/major.png",url:"jixie-major.jsp#cekong",target:"_self"},
                      { name:"工业工程",icon:"images/major.png",url:"jixie-major.jsp#gongye",target:"_self"},
-                     { name:"机械类（含机械工程、机械电子工程专业）",icon:"images/major.png",url:"jixie-major.jsp#jixie",target:"_self"},
-                     { name:"测控技术与仪器",icon:"images/major.png"}
+                     { name:"机械类（含机械工程、机械电子工程专业）",icon:"images/major.png",url:"jixie-major.jsp#jixie",target:"_self"}
+                   
                   ]},
                    { name:"计算机科学与技术学院",icon:"images/college.png",url:"jisuanji-major.jsp",target:"_self",
                   children: [
