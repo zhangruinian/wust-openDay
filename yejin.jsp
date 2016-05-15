@@ -7,6 +7,7 @@
         <link type="text/css" rel="stylesheet" href="css/common.css" />
         <link type="text/css" rel="stylesheet" href="css/index.css" />
         <link type="text/css" rel="stylesheet" href="css/briefintro.css" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     </head>
     <body>
         <div class="s_bg">
@@ -34,7 +35,7 @@
                                 <p class="maincontti_y" >学院注重国际学术交流与合作，先后与美国、英国、德国、日本等国家的20多所大学及科研院所建立了长期合作关系。近三年学院组织在校学生赴欧洲开展学习交流活动人数达50余人，形成了全方位的国际交流与合作新格局。</p>
                                 <p class="maincontti_y">60多年来，学院培养了万余名毕业生，一批杰出校友成长为中国工程院院士、著名的专家学者、企业的管理者和技术骨干以及各级党政领导和各类企业掌门人。</p>
                                 <p class="maincontti_y">学院秉承“厚德博学，崇实去浮”校训，努力使学科建设和人才培养再上新台阶，为我国在材料与冶金领域培养出更多高素质人才而不懈奋斗。</p>
-                                <p class="maincontti_y">学院网址：<a href="http://202.114.242.233:8025/default2.html" base target="_black">http://202.114.242.233:8025/default2.html</a> </p>
+                                <p class="maincontti_y">学院网址：<a href="http://cy.wust.edu.cn" base target="_black">http://cy.wust.edu.cn</a> </p>
                                 
                                 <p class="maincontti_y">学院招生咨询电话：：（027）68862345</p>
                                 <p style="height:20px;"></p>

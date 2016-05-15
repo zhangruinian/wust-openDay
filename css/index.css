@@ -50,17 +50,17 @@
 .s_headimg{
 	margin:auto;
 	width:1024px;
-	height:215px;
+	height:250px;
 
 }
 .s_headimg #picBox{
 	overflow: hidden;
 	width:1024px;
-	height:215px;
+	height:250px;
 }
 .s_headimg img{
 	width:1024px;
-	height:215px;
+	height:250px;
 }
 .left{
 	float:left;

@@ -7,6 +7,7 @@
         <link type="text/css" rel="stylesheet" href="css/common.css" />
         <link type="text/css" rel="stylesheet" href="css/index.css" />
         <link type="text/css" rel="stylesheet" href="css/briefintro.css" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     </head>
     <body>
         <div class="s_bg">

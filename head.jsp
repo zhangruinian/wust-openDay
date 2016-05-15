@@ -15,14 +15,16 @@
                     id: 'picBox',
                     //风格
                     pattern: 'mF_YSlider',
-                    txtHeight:'0'
+                    txtHeight:'0',//文字层高度设置(像素),'default'为默认高度，0为隐藏
+                     time:3,//切换时间间隔(秒)
+                     trigger:'click'//触发切换模式:'click'(点击)/'mouseover'(悬停)
                 });
         </script>
     </head>
     <body>
         <div class="s_header">
             <div class="s_headleft">
-                <img src="images/wust_logo1.png" />
+                <img src="images/wust_logo.png" />
             </div>
             <div class="s_headright">
                 <p class="kaifang">2016网上校园开放日</p>
@@ -40,9 +42,11 @@
             <div id="picBox">
                 <div class="pic">
                     <ul>
-                        <li><img text=" "src="images/wust_bg1.png"/></li>
-                        <li><img text=" " src="images/campus7.jpg" /></li>
-                        <li><img text=" " src="images/campus5.jpg" /></li>
+                        <li><img width="1024px" height="250px" text=" " src="images/wustBg1.png"/></li>
+                        <li><img width="1024px" height="250px" text=" " src="images/wustBg2.png" /></li>
+                        <li><img width="1024px" height="250px" text=" " src="images/wustBg3.png" /></li>
+                        <li><img width="1024px" height="250px" text=" " src="images/wustBg4.png" /></li>
+                         <li><img width="1024px" height="250px" text=" " src="images/wustBg5.png" /></li>
                     </ul>
                 </div>
             </div>
