@@ -24,7 +24,7 @@
     <body>
         <div class="s_header">
             <div class="s_headleft">
-                <img src="images/wust_logo.png" />
+                <a href="index.jsp"><img src="images/wust_logo.png" /></a>
             </div>
             <div class="s_headright">
                 <p class="kaifang">2016网上校园开放日</p>

@@ -28,7 +28,8 @@ body {
 	z-index: 0;
 	width: 100%;
 	height: auto;
-	background: #75a5b7;
+	/* background: #75a5b7; 之前的颜色 */
+	background:#94CDE3;
 }
 .s_xiaowei {
 	position: absolute;

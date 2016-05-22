@@ -269,6 +269,7 @@
 	position:relative;
 	width:555px;
 	height:136px;
+	/* margin-top:-5px; */
 	}
 .allphoto_y{
 
@@ -309,10 +310,12 @@
 .personimg_y img{
 	width:120px;
 	height:136px;
+
 	}
 .personimg_yx{
 	width:270px;
 	height:auto;	
+	margin-top:-5px;
 }
 .personimg_yx img{
 	display:block;

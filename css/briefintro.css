@@ -187,13 +187,14 @@
 	overflow:hidden;	
 	margin-bottom:10px;
 }
-.newsimg_yc img{
+/* .newsimg_yc img{
 	width:710px;
-}	
+}	 */
 .newsimg_y img{
 	margin-top:40px;
 	margin-bottom:10px;
-	width:750px;
+	width:540px;
+	height:340px;
 /* 	height:370px; */
 	}
 .newsimg_ysy{
