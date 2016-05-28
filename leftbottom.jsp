@@ -57,8 +57,8 @@
             </div>
         </div>
         <div class="bookchara_y">
-            	<p class="borcont_y"><a href="http://202.114.242.233:8045/type/00730110.html" base target="_blank">杰出校友</a></p>
-                <p class="flobord_y"><a  href="http://202.114.242.233:8045/type/00730110.html" base target="_blank">more>></a></p>
+            	<p class="borcont_y"><a href="#" >杰出校友</a></p>
+                <p class="flobord_y"><a  href="#" >more>></a></p>
         	</div>
         <div style="clear:both"></div>
         <jsp:include page="jiechu.jsp"/>  

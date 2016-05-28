@@ -10,7 +10,7 @@
     </head>
 <body>
     <div class="s_bg">
-        <div class="s_xiaowei"><img src="images/s_xiaowei.png"/></div>
+        <!-- <div class="s_xiaowei"><img src="images/s_xiaowei.png"/></div> -->
         <div class="s_content">
             <!--页头模块 -->
             <jsp:include page="head.jsp" />

@@ -27,7 +27,9 @@
                 <a href="index.jsp"><img src="images/wust_logo.png" /></a>
             </div>
             <div class="s_headright">
-                <p class="kaifang">2016网上校园开放日</p>
+                <p class="kaifang"><!-- 2016网上校园开放日 -->
+                    <img src="images/wsxykfr.png" alt="">
+                </p>
                 <p class="kaifangtime">时间：6月23日-6月28日</p>
                 <img src="images/s_xiaoxun.png" class="s_xiaoxun"/>
             </div>
@@ -43,10 +45,9 @@
                 <div class="pic">
                     <ul>
                         <li><img width="1024px" height="250px" text=" " src="images/wustBg1.png"/></li>
-                        <li><img width="1024px" height="250px" text=" " src="images/wustBg2.png" /></li>
                         <li><img width="1024px" height="250px" text=" " src="images/wustBg3.png" /></li>
-                        <li><img width="1024px" height="250px" text=" " src="images/wustBg4.png" /></li>
-                         <li><img width="1024px" height="250px" text=" " src="images/wustBg5.png" /></li>
+                        <li><img width="1024px" height="250px" text=" " src="images/wustBg2.png" /></li>
+                       
                     </ul>
                 </div>
             </div>

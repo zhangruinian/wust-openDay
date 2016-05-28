@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>武汉科技大学2016校园开放日</title>
+        <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css">
+        
+        <style>
+        .section img{
+            width:100%;
+            height:100%;
+        }
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <!-- <ul id="menu">
+            <li data-menuanchor="firstPage" class="active"><a href="#firstPage">First slide</a></li>
+            <li data-menuanchor="secondPage"><a href="#secondPage">Second slide</a></li>
+            <li data-menuanchor="3rdPage"><a href="#3rdPage">Third slide</a></li>
+        </ul> -->
+        <div id="fullpage">
+            <div class="section " id="section0">
+               <img src="images/openday1.png" alt="">
+            </div>
+            <div class="section" id="section1">
+                <img src="images/openday2.png" alt="">
+                <!-- <div class="slide" id="slide1">
+                    <div class="intro">
+                        <h1>URL get updated (#)</h1>
+                        <p>
+                            Easy to bookmark and share
+                        </p>
+                    </div>
+                </div>
+                <div class="slide" id="slide2">
+                    <h1>Horizontal sliders!</h1>
+                    <img src="images/openday2.png" alt="iphone" id="iphone-two" />
+                </div> -->
+            </div>
+            <div class="section" id="section2">
+                <img src="images/openday3.png" alt="">
+            </div>
+             <div class="section" id="section3">
+                <img src="images/openday4.png" alt="">
+            </div>
+             <div class="section" id="section4">
+                <img src="images/openday5.png" alt="">
+            </div>
+             <div class="section" id="section5">
+                <img src="images/openday6.png" alt="">
+            </div>
+        </div>
+        <script src="js/jquery.min.js" type="text/javascript" charset="utf-8" ></script>
+        <script src="js/jquery.fullPage.min.js" type="text/javascript" charset="utf-8" ></script>
+        <script type="text/javascript">
+        $(document).ready(function() {
+        $('#fullpage').fullpage({
+        menu: '#menu',
+        anchors: ['firstPage', 'secondPage', '3rdPage'],
+        sectionsColor: ['#C63D0F', '#1BBC9B', '#7E8F7C'],
+        autoScrolling: true,
+        'navigation': true,
+        'navigationPosition': 'right'
+        });
+        });
+        </script>
+    </body>
+</html>

@@ -13,21 +13,21 @@
 <body>
         <div id="demo6" class="w_schcon">
 	<ul  class="schcon_ul">
-		<li><a class="s_jiechu" href="http://202.114.242.233:8045/news/136852726936649015.html" base target="_blank">
+		<li><a class="s_jiechu" href="#" >
         		<div class="w_lilt"> <img src="images/sunzhigang.jpg" /></div>
                 <div class="w_lirt">
                      <h1>孙志刚</h1>
                      <span>贵州省委副书记、省长、省政府党组书记。我校76届校友。</span>
                 </div>
     	</a></li>        
-        <li><a class="s_jiechu" href="http://202.114.242.233:8045/news/136818507675489944.html" base target="_blank">
+        <li><a class="s_jiechu" href="#" >
             	<div class="w_lilt"> <img src="images/liujie.jpg" /></div>
                 <div class="w_lirt">
                      <h1>刘玠</h1>
                       <span>我国冶金自动化及信息工程专家，中国工程院院士，国家级有突出贡献专家。曾任鞍山钢铁集团公司董事长、党委书记、总经理。我校64届校友。   </span>
                 </div>
         </a></li>
-        <li><a class="s_jiechu" href="http://202.114.242.233:8045/news/136818529466029058.html" base target="_blank" >
+        <li><a class="s_jiechu" href="#"  >
                 <div class="w_lilt"><img src="images/suyinao.jpg" /></div>
                <div class="w_lirt">
                     <h1>苏义脑</h1>
@@ -35,7 +35,7 @@
              </div>
              
         </a> </li>       
-         <li><a class="s_jiechu" href="http://www.cnwust.com/evaluation/79823_0/666" base target="_blank" >
+         <li><a class="s_jiechu" href="#"  >
                 <div class="w_lilt"><img src="images/maoxinping.jpg" /></div>
                <div class="w_lirt">
                     <h1>毛新平</h1>
@@ -43,7 +43,7 @@
              </div>
              
         </a> </li>       
-        <li><a class="s_jiechu" href="http://202.114.242.233:8045/news/136481992318851782.html" base target="_blank">
+        <li><a class="s_jiechu" href="#" >
                 <div class="w_lilt"><img src="images/xujiayin.jpg" /></div>
                 <div class="w_lirt">
                      <h1>许家印</h1>

@@ -15,8 +15,8 @@
             <!--报考指南-->
             <div class="booklet_y">
                 <div class="bookchara_y">
-                    <p class="borcont_y"><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=16"base target="_blank" >报考指南</a></p>
-                    <p class="flobord_y"><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=16"base target="_blank">more>></a></p>
+                    <p class="borcont_y"><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=16" base target="_blank" >报考指南</a></p>
+                    <p class="flobord_y"><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=16" base target="_blank">more>></a></p>
                 </div>
                 <div style="clear:both;height:15px;"></div>
                 <div class="conbook_y">
@@ -157,13 +157,13 @@
                     </div>
                     <div style="clear:both;"></div>
                     <div class="slidetea_yx">
-                        <a href="http://www.cnwust.com/news/77108_3" class="personal_yx"base target="_blank">
+                        <a href="http://www.cnwust.com/news/77108_3" class="personal_yx" base target="_blank">
                             <p class="personimg_yx">
                             <img src="images/lxk.png" /></p>
                             <p class="perteachn_yx">李轩科</p>
                             <p class="detateachn_yx">化学工程与技术学院</p>
                         </a>
-                        <a href="http://www.cnwust.com/news/77055_3" class="personal_yx"base target="_blank">
+                        <a href="http://www.cnwust.com/news/77055_3" class="personal_yx" base target="_blank">
                             <p class="personimg_yx" style="margin-left:5px;">
                             <img src="images/resource.jpg" /></p>
                             <p class="perteachn_yx">张一敏</p>
