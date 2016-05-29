@@ -40,7 +40,7 @@
                 	<div class="w_rightsdimg">
                     	<a href="shetuanart.jsp" base target="_blank">
                         <div class="w_qhimgxs1"><span>社团文化</br>艺术节</span></div>
-                        <img src="images/kjwhysj.png" /></a>
+                        <img src="images/stwhysj.jpg" /></a>
                     </div>
                 </div>
                                
@@ -48,7 +48,7 @@
 <!--                 	<div class="w_introds"></div> -->
                 <!--	<a class="w_intro" href="wyhh.jsp"base target="_blank">五月的花海</a>-->
                 	<div class="w_rightsdimg">
-                    	<a href="wyhh.jsp"base target="_blank">
+                    	<a href="wyhh.jsp" base target="_blank">
                         <div class="w_qhimgxs1"><span>“五月的花海”</br>合唱比赛</span></div>
                         <img src="images/wydhh.png" /></a>
                     </div>
@@ -57,7 +57,7 @@
 <!--                 	<div class="w_introds"></div> -->
                 	<!--<a class="w_intro" href="graduation.jsp"base target="_blank">毕业生晚会</a>-->
                 	<div class="w_rightsdimg">
-                    	<a href="graduation.jsp"base target="_blank">
+                    	<a href="graduation.jsp" base target="_blank">
                         <div class="w_qhimgxs1"><span>“青春续航”</br>毕业生晚会</span></div>
                         <img src="images/byswh0.png" /></a>
                     </div>

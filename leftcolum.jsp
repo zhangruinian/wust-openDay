@@ -19,18 +19,23 @@
                     <p class="flobord_y"><a href="http://zs.wust.edu.cn/BK/Category.aspx?ID=16" base target="_blank">more>></a></p>
                 </div>
                 <div style="clear:both;height:15px;"></div>
-                <div class="conbook_y">
+                <div class="conbook_y clear">
                     <div class="leftcon_y"><a href="index.html" target="_blank"><img title="点击查看报考指南" src="images/e-book.jpg"/></a></div>
-                    <div class="rgtcon_y">
+                    <div class="rgtcon_y ">
                         <div class="topthree_y">
-                            <p class="briefintro_y"><a href="briftintro.jsp"base target="_blank">学校概况</a></p>
-                            <p class="briefintro_y"><a href="cruitregu.jsp"base target="_blank">招生章程</a></p>
-                            <p class="briefintro_y"><a href="cruitplan.jsp"base target="_blank">招生计划</a></p>
+                            <p class="briefintro_y"><a href="briftintro.jsp" base target="_blank">学校概况</a></p>
+                            <p class="briefintro_y"><a href="cruitregu.jsp" base target="_blank">招生章程</a></p>
+                            <!-- <p class="briefintro_y"><a href="cruitplan.jsp"base target="_blank">招生计划</a></p> -->
                         </div>
-                        <div style="clear:both;"></div>
+                        <!--  <div style="clear:both;"></div> -->
+                        <div class="topthree_y">
+                            <p class="briefintro_y"><a href="cruitplan.jsp" base target="_blank">招生计划</a></p>
+                            <p class="briefintro_y"><a href="careerintro.jsp" base target="_blank">专业介绍</a></p> 
+                        </div>
+                        <!-- <div style="clear:both;"></div> -->
                         <div class="bottomtwo_y">
-                            <p class="briefintro_y"><a href="careerintro.jsp"base target="_blank">专业介绍</a></p>
-                            <p class="briefgrade_y"><a href="gradesec.jsp"base target="_blank">近三年分数线</a></p>
+                            <!-- <p class="briefintro_y"><a href="careerintro.jsp"base target="_blank">专业介绍</a></p> -->
+                            <p class="briefgrade_y"><a href="gradesec.jsp" base target="_blank">近三年分数线</a></p>
                         </div>
                     </div>
                 </div>
@@ -39,8 +44,8 @@
             <!--媒体关注-->
             <div class="presscare_y">
                 <div class="bookchara_y">
-                    <p class="borcont_y"><a href="http://www.cnwust.com/newsList/7_1"base target="_blank">媒体关注</a></p>
-                    <p class="flobord_y"><a href="http://www.cnwust.com/newsList/7_1"base target="_blank">more>></a></p>
+                    <p class="borcont_y"><a href="http://www.cnwust.com/newsList/7_1" base target="_blank">媒体关注</a></p>
+                    <p class="flobord_y"><a href="http://www.cnwust.com/newsList/7_1" base target="_blank">more>></a></p>
                 </div>
                 <div style="clear:both;"></div>
                 <div class="presscont_y">

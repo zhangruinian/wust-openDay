@@ -7,7 +7,7 @@
 .s_header{
 	margin:auto;
 	width:1024px;
-	height:100px;
+	height:110px;
 }
 .s_headleft{
 	float:left;
@@ -38,7 +38,7 @@
 .s_headright .kaifangtime{
 	width:510px;
 	margin-left:85px;
-	margin-top:-10px;
+	margin-top:-5px;
 	font-family:"微软雅黑";
 	font-weight:bold;
 	font-size:20px;

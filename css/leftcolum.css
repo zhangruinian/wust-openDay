@@ -10,28 +10,37 @@
 	}
 .conbook_y{
 	margin-left:5px;
+	height:245px;
+
 	}
 .leftcon_y{
 	float:left;
 	margin-left:15px;
-	width:116px;
-	height:150px;
+	/* width:116px;
+	height:150px; */
+	width: 170px;
+	height:220px;
 	overflow:hidden;	
 	}
 .leftcon_y img{
-	width:107px;
-	height:auto;
+	/* width:180px;
+	height:auto; */
+	width: 170px;
+	height:220px;
+	
 }
 .rgtcon_y{
+	width:310px;
 	float:left;
-	margin-left:20px;
+	margin-left:25px;
 	margin-top:10px;
 	}
 .topthree_y{
-	width:395px;
-	height:62px;
+	/* width:395px; */
+	width:270px;
+	height:60px;
 	overflow:hidden;
-	
+	margin-bottom:3px;
 	/*border-bottom:2px solid #D8D8D9;*/
 	}
 .rgtcon_y a{
@@ -49,11 +58,12 @@
 }
 .briefintro_y{
 	float:left;
-	width:128px;
+	width:130px;
 	text-align:center;
 	font-size:18px;
 	height:60px;
 	line-height:60px;
+	margin-left:5px;
 	/* background:#75A5B7; */
 	background:rgba(122,193,221,0.8);
 	border-radius:15px;
@@ -71,19 +81,20 @@
 	}
 .briefgrade_y{
 	float:left;
-	width:256px;
+	width:265px;
 	text-align:center;
 	font-size:18px;
 	height:60px;
 	line-height:60px;
 	background:#75A5B7;
 	border-radius:15px;
+	margin-left:5px;
 	background:rgba(122,193,221,0.8);
 	}
 .bottomtwo_y{
 	width:395px;
 	height:60px;
-	margin-top:6px;
+	margin-top:4px;
 	}
 /* 媒体关注 */
 .presscare_y{

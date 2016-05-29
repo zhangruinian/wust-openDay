@@ -30,7 +30,7 @@
                 <p class="kaifang"><!-- 2016网上校园开放日 -->
                     <img src="images/wsxykfr.png" alt="">
                 </p>
-                <p class="kaifangtime">时间：6月23日-6月28日</p>
+                <p class="kaifangtime">时间：6月15日-6月30日</p>
                 <img src="images/s_xiaoxun.png" class="s_xiaoxun"/>
             </div>
             <div style="float:clear;"></div>
