@@ -58,6 +58,9 @@
 	font-size:16px;
 	line-height:28px;
 	}
+.plantext{
+	font-size:12px;
+}
 .maincontti_ya{
 	width:750px;
 	font-family:"宋体";
@@ -235,5 +238,5 @@
 	line-height:25px;
 }
 .style{
-	margin-top:50px；
+	margin-top:40px；
 }

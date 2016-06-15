@@ -23,7 +23,7 @@
                 <a href="http://zs.wust.edu.cn/BK/default.aspx" base target="_blank" style="margin-left:70px;">武汉科技大学本科招生网 </a>
             </div>
             <div class="s_foottext"><span>技术支持：</span>
-            <a href="http://adou.cnwust.com/" base target="_blank" style="margin-left:-4px;">武汉科技大学阿豆工作室 </a>
+            <a href="#" base target="_blank" style="margin-left:-4px;">武汉科技大学阿豆工作室 </a>
         </div>
     </div>
     

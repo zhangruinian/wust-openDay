@@ -101,7 +101,7 @@ ul#treeDemo span{
 .majorDetails p{
 	font-size:14px;
 	line-height:24px;
-	text-indent:4em;
+	text-indent:2em;
 	margin-bottom:8px;
 }
 .majorDetails h3{
@@ -118,6 +118,13 @@ ul#treeDemo span{
 }
 .majorDetails strong{
 	font-size:14px;
+	
+	text-indent:2em;
+}
+.majorDetails strong.star{
+	font-weight:normal;
+	color:red;
+	/* text-indent:4em; */
 }
 /* gradeasec.jsp历年分数线 */
 ul.gradesec{

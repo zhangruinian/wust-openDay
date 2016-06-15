@@ -97,7 +97,7 @@
                 <div style="clear:both"></div>
                 <div class="magazine_y">
                     <div class="mageimg_y">
-                        <a href="http://rui.cnwust.com/18/online.html" base target="_black"><img title="点击查看锐杂志" src="images/magazine.png" /></a>
+                        <a href="http://rui.cnwust.com/20/online.html" base target="_black"><img title="点击查看锐杂志" src="images/magazine.png" /></a>
                     </div>
                     <div class="magechar_y">
                         <p class="maganame_y"><a href="http://rui.cnwust.com/18/online.html" target=_blank>《锐》杂志</a></p>

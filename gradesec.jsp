@@ -25,7 +25,7 @@
                 <p class="colunomin_y"><a href="index.jsp" base target="_blank">首页</a>>>历年分数线</p>
                
                 <div class="contenty_y">
-                    <p class="titlecon_y">历年分数线</p>
+                    <p class="titlecon_y">近三年分数线</p>
                     <ul class="gradesec">
                         <li><a href="all2015.jsp" base target="_blank">2015年各省（市、区）高考录取分数线及我校录取情况</a></li>
                         <li><a href="hb2015.jsp" target="_blank">2015年武汉科技大学分专业录取分数（湖北省）一览表</a></li>

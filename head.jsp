@@ -3,10 +3,20 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="keywords" content="武汉科技大学,2016网上校园开放日，招生咨询，高考专业，高考报名，武科大，校园开放日">
         <title>2016网上校园开放日</title>
         <link href="css/common.css" type="text/css" rel="stylesheet" />
         <link href="css/index.css" type="text/css" rel="stylesheet" />
-        
+        <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?ad198346a4ec6e688162bc3052639b28";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+        </script>
+
         <script src="js/myfocus-2.0.1.min.js" ></script>
         <script>
            // 焦点轮播图设置
@@ -27,8 +37,8 @@
                 <a href="index.jsp"><img src="images/wust_logo.png" /></a>
             </div>
             <div class="s_headright">
-                <p class="kaifang"><!-- 2016网上校园开放日 -->
-                    <img src="images/wsxykfr.png" alt="">
+                <p class="kaifang">2016网上校园开放日
+                    <!-- <img src="images/wsxykfr.png" alt=""> -->
                 </p>
                 <p class="kaifangtime">时间：6月15日-6月30日</p>
                 <img src="images/s_xiaoxun.png" class="s_xiaoxun"/>

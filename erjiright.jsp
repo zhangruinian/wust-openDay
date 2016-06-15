@@ -23,7 +23,7 @@
 	    		<li><a  href="cruitregu.jsp" base target="_blank">招生简章</a></li>
 	    		<li><a href="cruitplan.jsp" base target="_blank">招生计划</a></li>
 	    		<li><a href="careerintro.jsp" base target="_self">专业介绍</a></li>
-	    		<li><a href="gradesec.jsp" base target="_self">历年分数线</a></li>
+	    		<li><a href="gradesec.jsp" base target="_self">近三年分数线</a></li>
 	    	</ul>
 	    </div>
     </div>

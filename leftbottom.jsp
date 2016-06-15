@@ -58,7 +58,7 @@
         </div>
         <div class="bookchara_y">
             	<p class="borcont_y"><a href="#" >杰出校友</a></p>
-                <p class="flobord_y"><a  href="#" >more>></a></p>
+               <!--  <p class="flobord_y"><a  href="#" >more>></a></p> -->
         	</div>
         <div style="clear:both"></div>
         <jsp:include page="jiechu.jsp"/>  

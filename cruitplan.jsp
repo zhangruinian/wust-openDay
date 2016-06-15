@@ -33,7 +33,7 @@
         	<div class="mainleft_y">
             	<p class="colunomin_y"><a href="index.jsp" base target="_blank">首页</a>>招生计划</p>
               <div class="contenty_y">
-                	<p class="titlecon_y">招生计划</p>
+                	<p class="titlecon_y">2016年招生计划及学费标准</p>
 	              <table class="table_solid" cellspacing="0" cellpadding="0" >
 		              <tr>
 		              	<th>学院名称</th>
@@ -89,7 +89,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>100</td>
+		              	<td>105</td>
 		              	<td>5850</td>
 		              </tr>
 		              <tr>
@@ -108,7 +108,7 @@
 		              	<td>五年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>30</td>
+		              	<td>35</td>
 		              	<td>4500</td>
 		              </tr>
 		             <tr>
@@ -144,17 +144,17 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>200</td>
+		              	<td>210</td>
 		              	<td>5850</td>
 		              </tr>
 		              <tr>
-		              	<th rowspan="10">管理学院 ◆</th>
+		              	<th rowspan="9">管理学院 ◆</th>
 		              	<td>财务管理</td>
 		              	<td>管理学学士</td>
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>60</td>
+		              	<td>65</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>
@@ -163,7 +163,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>60</td>
+		              	<td>40</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>
@@ -172,7 +172,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>65</td>
+		              	<td>75</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>
@@ -181,25 +181,25 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>90</td>
+		              	<td>170</td>
 		              	<td>5850</td>
 		              </tr>
-		              <tr>
-		              	<td>工商管理</br>（电子技术学院）</td>
+		              <!-- <tr>
+		              	<td>？？？xxx工商管理</br>（电子技术学院）</td>
 		              	<td>管理学学士</td>
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
 		              	<td>80</td>
 		              	<td>10000</td>
-		              </tr>
+		              </tr> -->
 		              <tr>
 		              	<td>会计学</td>
 		              	<td>管理学学士</td>
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>75</td>
+		              	<td>82</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>
@@ -208,7 +208,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>65</td>
+		              	<td>70</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>
@@ -217,7 +217,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>65</td>
+		              	<td>60</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>
@@ -234,8 +234,8 @@
 		              	<td>管理学学士</td>
 		              	<td>四年</td>
 		              	<td>本科</td>
-		              	<td>文理兼收</td>
-		              	<td>40</td>
+		              	<td>理工类</td>
+		              	<td>70</td>
 		              	<td>5850</td>
 		              </tr>
 		              <tr>
@@ -254,7 +254,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>65</td>
+		              	<td>70</td>
 		              	<td>4500</td>	
 		              </tr>
 		              <tr>
@@ -263,7 +263,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>40</td>
+		              	<td>45</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>
@@ -273,7 +273,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>90</td>
+		              	<td>95</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>
@@ -286,31 +286,31 @@
 		              	<td>5850</td>
 		              </tr>
 		              <tr>
-		              	<th rowspan="5">计算机科学</br>与技术学院</th>
+		              	<th rowspan="4">计算机科学</br>与技术学院</th>
 		              	<td>计算机科学与技术 ●</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>170</td>
+		              	<td>225</td>
 		              	<td>5850</td>
 		              </tr>
-		              <tr>
-		              	<td>计算机科学与技术（电子技术学院）</td>
+		             <!--  <tr>
+		              	<td>XxX计算机科学与技术（电子技术学院）</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
 		              	<td>40</td>
 		              	<td>10000</td>
-		              </tr>
+		              </tr> -->
 		              <tr>
 		              	<td>软件工程 ▲</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>105</td>
+		              	<td>115</td>
 		              	<td>5850</td>
 		              </tr>
 		              <tr>
@@ -319,7 +319,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>70</td>
+		              	<td>80</td>
 		              	<td>5850</td>
 		              </tr>
 		              <tr>
@@ -338,7 +338,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>70</td>
+		              	<td>85</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>		             
@@ -347,7 +347,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>80</td>
+		              	<td>90</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>		             
@@ -357,7 +357,7 @@
 		              	<td>本科</td>
 		              	<td>理工类</td>
 		              	<td>45</td>
-		              	<td>待定</td>
+		              	<td>4500</td>
 		              </tr>	
 		              <tr>		             
 		              	<td>信息与计算科学</td>
@@ -365,7 +365,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>70</td>
+		              	<td>80</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>	
@@ -384,7 +384,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>100</td>
+		              	<td>97</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>		             
@@ -393,7 +393,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>35</td>
+		              	<td>32</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>		             
@@ -402,7 +402,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>65</td>
+		              	<td>70</td>
 		              	<td>5850</td>
 		              </tr>
 		              
@@ -412,7 +412,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>70</td>
+		              	<td>67</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>	
@@ -422,7 +422,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>30</td>
+		              	<td>35</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>		             
@@ -431,7 +431,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>30</td>
+		              	<td>35</td>
 		              	<td>4500</td>
 		              </tr>
 		              
@@ -441,7 +441,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>100</td>
+		              	<td>105</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>		
@@ -460,7 +460,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>100</td>
+		              	<td>105</td>
 		              	<td>5850</td>
 		              </tr>
 		              <tr>		             
@@ -469,7 +469,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>35</td>
+		              	<td>32</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>		             
@@ -487,8 +487,8 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>文理兼收</td>
-		              	<td>35</td>
-		              	<td>待定</td>
+		              	<td>40</td>
+		              	<td>4500</td>
 		              </tr>
 		              <tr>		             
 		              	<td>行政管理</td>
@@ -496,17 +496,17 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>65</td>
+		              	<td>70</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>	
-		              	<th rowspan="5">信息科学与工程学院</th>	             
+		              	<th rowspan="4">信息科学与工程学院</th>	             
 		              	<td>电气工程及其自动化</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>70</td>
+		              	<td>80</td>
 		              	<td>5850</td>
 		              </tr>
 		              <tr>		             
@@ -515,18 +515,18 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>90</td>
-		              	<td>4500</td>
+		              	<td>210</td>
+		              	<td>5850</td>
 		              </tr>
-		              <tr>		             
-		              	<td>电子信息工程</br>（电子技术学院）</td>
+		             <!--  <tr>		             
+		              	<td>XXx电子信息工程</br>（电子技术学院）</td>
 		              	<td>工学学士</td>
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
 		              	<td>110</td>
 		              	<td>13000</td>
-		              </tr>
+		              </tr> -->
 		              <tr>		             
 		              	<td>通信工程</td>
 		              	<td>工学学士</td>
@@ -542,7 +542,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>160</td>
+		              	<td>170</td>
 		              	<td>5850</td>
 		              </tr>
 		              <tr>		
@@ -552,7 +552,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>40</td>
+		              	<td>70</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>				              	            
@@ -561,7 +561,7 @@
 		              	<td>五年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>200</td>
+		              	<td>210</td>
 		              	<td>5850</td>
 		              </tr>
 		              <tr>		           
@@ -579,7 +579,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>40</td>
+		              	<td>65</td>
 		              	<td>4500</td>
 		              </tr>
 		              <tr>		            
@@ -588,7 +588,7 @@
 		              	<td>五年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>75</td>
+		              	<td>70</td>
 		              	<td>4500</td>
 		              </tr>	 
 		              <tr>	
@@ -639,12 +639,12 @@
 		              </tr>	
 		              <tr>		            
 		              	<td>视觉传达设计</td>
-		              	<td>医学学士</td>
-		              	<td>五年</td>
+		              	<td>艺术学学士</td>
+		              	<td>四年</td>
 		              	<td>本科</td>
-		              	<td>理工类</td>
+		              	<td>艺术类</td>
 		              	<td>34</td>
-		              	<td>4500 </td>
+		              	<td>10350 </td>
 		             </tr>
 		             <tr>	
 		             	<th rowspan="5">资源与环境工程学院</th>	            
@@ -662,7 +662,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>75</td>
+		              	<td>70</td>
 		              	<td>4500</td>
 		              </tr>	
 		              <tr>		            
@@ -671,7 +671,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>70</td>
+		              	<td>80</td>
 		              	<td>4500</td>
 		              </tr>	
 		              <tr>		            
@@ -680,7 +680,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>105</td>
+		              	<td>100</td>
 		              	<td>4500</td>
 		              </tr>   
 		               <tr>		            
@@ -689,7 +689,7 @@
 		              	<td>四年</td>
 		              	<td>本科</td>
 		              	<td>理工类</td>
-		              	<td>35</td>
+		              	<td>40</td>
 		              	<td>4500</td>
 		              </tr> 
 		               <tr>	
@@ -718,17 +718,17 @@
 		              	<td>本科</td>
 		              	<td>理工类</td>
 		              	<td>80</td>
-		              	<td>待定</td>
+		              	<td>25000</td>
 		              </tr>       	              	              	              	              
 	              </table>
 	              <p style="height:20px;"></p>
-	              <p class="maincontti_y">各省具体招生专业和人数以各省级招生部门向社会公布的为准，各专业最终收费标准以湖北省物价部门核定的为准。</p>
-	         	  <p class="maincontti_y">★2015级新生入校后，在全校范围内择优选拔材料类（湖北省拔尖创新人才培育试验计划）试点班学生35人，材料类（香涛计划工科班）学生35人；</p>
-	         	  <p class="maincontti_y">◆2015级新生入校后，在全校范围内择优选拔工商管理类（香涛计划文管班）学生35人；</p>
-	         	  <p class="maincontti_y">●2015级新生入校后，在专业范围内择优选拔国家卓越工程师教育培养计划试点班学生30人；</p>
-	         	  <p class="maincontti_y">▲2015级新生入校后，在专业范围内择优选拔湖北省战略性新兴（支柱）产业人才培养计划试点班学生30人；</p>
-	         	  <p class="maincontti_y">●▲2015级新生入校后，在机械类范围内择优选拔机械工程（国家卓越工程师教育培养计划）试点班学生30人，机械电子工程（湖北省战略性新兴（支柱）产业人才培养计划）试点班学生30人。</p>
-
+	              <p class="maincontti_y plantext">各省具体招生专业和人数以各省级招生部门向社会公布的为准，各专业最终收费标准以湖北省物价部门核定的为准。</p>
+	         	  <p class="maincontti_y plantext">★2016级新生入校后，在全校范围内择优选拔冶金类拔尖创新人才培育试验计划（英才计划）试点班学生35人，香涛计划工科班学生35人；</p>
+	         	  <p class="maincontti_y plantext">◆2016级新生入校后，在全校范围内择优选拔香涛计划文管班学生35人；</p>
+	         	  <p class="maincontti_y plantext">●2016级新生入校后，在专业范围内择优选拔国家卓越工程师教育培养计划试点班学生30人；</p>
+	         	  <p class="maincontti_y plantext">▲2016级新生入校后，在专业范围内择优选拔湖北省战略性新兴（支柱）产业人才培养计划试点班学生30人；</p>
+	         	  <p class="maincontti_y plantext">●▲2016级新生入校后，在机械类范围内择优选拔机械工程（国家卓越工程师教育培养计划）试点班学生30人，机械电子工程（湖北省战略性新兴（支柱）产业人才培养计划）试点班学生30人。</p>
+		 <p class="maincontti_y plantext">■2016级新生入校后，直接进入该专业湖北省战略性新兴（支柱）产业人才培养计划试点班学习。</p>
 	         </div>     
         </div>       
         <jsp:include page="erjiright.jsp" />
