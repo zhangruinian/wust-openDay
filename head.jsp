@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="keywords" content="武汉科技大学,2016网上校园开放日，招生咨询，高考专业，高考报名，武科大，校园开放日">
+        <meta name="keywords" content="武汉科技大学,2016网上校园开放日，招生咨询，高考专业，高考报名，武科大，网上校园开放日">
         <title>2016网上校园开放日</title>
         <link href="css/common.css" type="text/css" rel="stylesheet" />
         <link href="css/index.css" type="text/css" rel="stylesheet" />
@@ -16,8 +16,7 @@
           s.parentNode.insertBefore(hm, s);
         })();
         </script>
-
-        <script src="js/myfocus-2.0.1.min.js" ></script>
+     <script src="js/myfocus-2.0.1.min.js" ></script>
         <script>
            // 焦点轮播图设置
                 myFocus.set({
@@ -30,6 +29,7 @@
                      trigger:'click'//触发切换模式:'click'(点击)/'mouseover'(悬停)
                 });
         </script>
+       
     </head>
     <body>
         <div class="s_header">
@@ -40,7 +40,7 @@
                 <p class="kaifang">2016网上校园开放日
                     <!-- <img src="images/wsxykfr.png" alt=""> -->
                 </p>
-                <p class="kaifangtime">时间：6月15日-6月30日</p>
+                <p class="kaifangtime">时间：6月17日-6月30日</p>
                 <img src="images/s_xiaoxun.png" class="s_xiaoxun"/>
             </div>
             <div style="float:clear;"></div>
@@ -51,8 +51,8 @@
         </div> -->
         <!-- 头部轮播图 -->
         <div class="s_headimg">
-            <div id="picBox">
-                <div class="pic">
+            <div id="picBox" style="visibility: hidden">
+                <div class="pic" >
                     <ul>
                         <li><img width="1024px" height="250px" text=" " src="images/wustBg1.png"/></li>
                         <li><img width="1024px" height="250px" text=" " src="images/wustBg3.png" /></li>
@@ -62,5 +62,6 @@
                 </div>
             </div>
         </div>
+
     </body>
 </html>

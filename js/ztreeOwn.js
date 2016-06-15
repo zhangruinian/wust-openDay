@@ -62,7 +62,7 @@ var zTreeObj;
                      { name:"统计学",icon:"images/major.png",url:"lixueyuan-major.jsp#tongji",target:"_self"},
                      { name:"信息与计算科学",icon:"images/major.png",url:"lixueyuan-major.jsp#tongji",target:"_self"}
                   ]},
-                   { name:"汽车与交通工程学",icon:"images/college.png",url:"qiche-major.jsp",target:"_self",
+                   { name:"汽车与交通工程学院",icon:"images/college.png",url:"qiche-major.jsp",target:"_self",
                   children: [
                      { name:"车辆工程",icon:"images/major.png",url:"qiche-major.jsp#cheliang",target:"_self"},
                      { name:"交通工程",icon:"images/major.png",url:"qiche-major.jsp#jiaotong",target:"_self"},
@@ -81,14 +81,14 @@ var zTreeObj;
                      { name:"法学",icon:"images/major.png",url:"wenfa-major.jsp#faxue",target:"_self"},
                      { name:"国际经济与贸易",icon:"images/major.png",url:"wenfa-major.jsp#guomao",target:"_self"},
                      { name:"劳动与社会保障",icon:"images/major.png",url:"wenfa-major.jsp#laobao",target:"_self"},
-                     { name:"社会 工作",icon:"images/major.png",url:"wenfa-major.jsp#shegong",target:"_self"},
+                     { name:"社会工作",icon:"images/major.png",url:"wenfa-major.jsp#shegong",target:"_self"},
 
                      { name:"投资学",icon:"images/major.png",url:"wenfa-major.jsp#touzi",target:"_self"},
                      { name:"行政管理",icon:"images/major.png",url:"wenfa-major.jsp#xingzheng",target:"_self"}
                   ]},
                    { name:"信息科学与工程学院",icon:"images/college.png",url:"xinxi-major.jsp",target:"_self",
                   children: [
-                     { name:"电气工程及其自动",icon:"images/major.png",url:"xinxi-major.jsp#dianqi",target:"_self"},
+                     { name:"电气工程及其自动化",icon:"images/major.png",url:"xinxi-major.jsp#dianqi",target:"_self"},
                      { name:"电子信息工程 ",icon:"images/major.png",url:"xinxi-major.jsp#dainzi",target:"_self"},
                      { name:"通信工程",icon:"images/major.png",url:"xinxi-major.jsp#tongxin",target:"_self"},
                      { name:"自动化",icon:"images/major.png",url:"xinxi-major.jsp#zidonghua",target:"_self"}
