@@ -7,7 +7,7 @@
     <title>武汉科技大学校园开放日</title>
     <link type="text/css" rel="stylesheet" href="css/common.css" />
     <link type="text/css" rel="stylesheet" href="css/w_openday.css" />
-    <script type="text/ecmascript" language="javascript" src="js/jquery-1.8.2.js"></script>
+    <script type="text/ecmascript" language="javascript" src="js/jquery.min.js"></script>
     <script type="text/ecmascript" language="javascript" src="js/campus.js"></script>
 
 </head>

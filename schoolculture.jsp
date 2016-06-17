@@ -6,7 +6,7 @@
 <title>校园风光</title>
 <link type="text/css" rel="stylesheet" href="css/w_openday.css" />
 <link type="text/css" rel="stylesheet" href="css/common.css" />
-<script type="text/javascript" src="js/jquery-1.8.2.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
 <script src="js/schoolculture.js" type="text/jscript"></script>
 
 </head>

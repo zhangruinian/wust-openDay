@@ -96,7 +96,7 @@
             <div class="con_bom"></div>
         </div>
           <div class="j_hotcontent">
-            <div class="con_header"><p>问：你校是否有中外合作办学的专业招生？ 在湖北省如何招生？</p></div>
+            <div class="con_header"><p>问：你校是否有中外合作办学的专业招生？ 在湖北省如何投档录取？</p></div>
             <div class="con_con">
                 <div class="con_blank"><p><span>答：</span><a>有的。经教育部审批，我校电子信息工程专业（与美国桥港大学合作举办的本科项目）、机械工程专业（与澳大利亚迪肯大学合作举办的本科项目）和网络工程专业（与英国伯明翰城市大学合作举办的本科项目）将进行招生。</a></p>
                 <p><a>在湖北省，我校为中外合作办学专业单独开设投档单位，与其他专业分开投档；如投档线上中外合作办学专业志愿生源不足，则降低投档线（但不低于第一批本科批次线）择优录取有我校该类专业志愿的考生。</a></p>
@@ -144,7 +144,7 @@
             </tr>
             <tr>
                 <td>
-                    <div ><a href="lixueyuan.jsp" base target="_blank"><img src="images/li1.jpg" /></a></div>
+                    <div ><a href="lixueyuan.jsp" base target="_blank"><img src="images/li0.jpg" /></a></div>
                     <a href="lixueyuan.jsp" base target="_blank"><div style="margin-left:5px;"><span>理学院</span></div></a>
                 </td>
                 <td>
@@ -158,7 +158,7 @@
                     <a href="english.jsp" base target="_blank"><div style="margin-left:5px;"><span>外国语学院</span></div></a>
                 </td>
                 <td>
-                    <div><a href="wanfa.jsp" base target="_blank"><img src="images/wenfa1.jpg" /></a></div>
+                    <div><a href="wanfa.jsp" base target="_blank"><img src="images/wenfa0.jpg" /></a></div>
                     <a href="wanfa.jsp" base target="_blank"><div style="margin-left:5px;"><span>文法与经济学院</span></div></a>
                 </td>
             </tr>

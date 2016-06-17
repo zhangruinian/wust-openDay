@@ -6,7 +6,7 @@
         <title>左边栏目部分</title>
         <link type="text/css" rel="stylesheet" href="css/common.css" />
         <link type="text/css" rel="stylesheet" href="css/leftcolum.css" />
-        <script type="text/javascript" src="js/jquery-1.8.2.js"></script>
+      <!--   <script type="text/javascript" src="js/jquery-1.8.2.js"></script> -->
         <script src="js/jquery.min.js"></script>
         <script src="js/jquery.scrollbox.js"></script>
     </head>
@@ -30,13 +30,17 @@
                         <!--  <div style="clear:both;"></div> -->
                         <div class="topthree_y">
                             <p class="briefintro_y"><a href="cruitplan.jsp" base target="_blank">招生计划</a></p>
-                            <p class="briefintro_y"><a href="careerintro.jsp" base target="_blank">专业介绍</a></p> 
+                            <p class="briefintro_y"><a href="code.jsp" base target="_blank">招生批次及代码</a></p> 
                         </div>
                         <!-- <div style="clear:both;"></div> -->
-                        <div class="bottomtwo_y">
-                            <!-- <p class="briefintro_y"><a href="careerintro.jsp"base target="_blank">专业介绍</a></p> -->
-                            <p class="briefgrade_y"><a href="gradesec.jsp" base target="_blank">近三年分数线</a></p>
+                          <div class="topthree_y">
+                          <p class="briefintro_y"><a href="gradesec.jsp" base target="_blank">近三年分数线</a></p>
+                            <p class="briefintro_y"><a href="careerintro.jsp" base target="_blank">专业介绍</a></p> 
                         </div>
+                        <!-- <div class="bottomtwo_y">
+                            
+                            <p class="briefgrade_y"><a href="gradesec.jsp" base target="_blank">近三年分数线</a></p>
+                        </div> -->
                     </div>
                 </div>
             </div>

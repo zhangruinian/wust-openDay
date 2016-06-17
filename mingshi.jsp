@@ -54,7 +54,7 @@
         		<div class="personimg_y"><img src="images/kjy.jpg" /></div>
             	<div class="nameper_y">
                       <span class="perteachn_y">孔建益</span>
-                     <span class="detateachn_y">校长<br/>机械自动化学院教授<br/>博士生导师<br/>国家及教学名师</span>            	
+                     <span class="detateachn_y">校长<br/>机械自动化学院教授<br/>博士生导师<br/>国家级教学名师</span>            	
             	</div>
     		</a></li>
         	<li><a  class="personal_y" href="http://202.114.255.13/mingshi/cks.html" base target="_blank">

@@ -40,7 +40,7 @@
                 <p class="kaifang">2016网上校园开放日
                     <!-- <img src="images/wsxykfr.png" alt=""> -->
                 </p>
-                <p class="kaifangtime">时间：6月17日-6月30日</p>
+                <p class="kaifangtime">时间：6月20日-6月30日</p>
                 <img src="images/s_xiaoxun.png" class="s_xiaoxun"/>
             </div>
             <div style="float:clear;"></div>
@@ -51,7 +51,7 @@
         </div> -->
         <!-- 头部轮播图 -->
         <div class="s_headimg">
-            <div id="picBox" style="visibility: hidden">
+            <div id="picBox" >
                 <div class="pic" >
                     <ul>
                         <li><img width="1024px" height="250px" text=" " src="images/wustBg1.png"/></li>
